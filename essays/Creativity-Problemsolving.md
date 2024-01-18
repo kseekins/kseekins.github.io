@@ -13,7 +13,7 @@ labels:
 
 *How Many Programmers are needed to Wallpaper an Entire Room?*
 
-My favorite answer is, depends on how thinly you slice them. This is an example of lateral thinking. We assume programmers provie labor to wallpaper the room- not becoming the raw material to cover the wall. In Java when we write a function, a data type of each parameter is specified. But in Javascript, it's not. How does that affect the product? Could a program act in unexpected ways? And if it does, would it be chaos or something fresh and innovative?
+My favorite answer is, depends on how thinly you slice them. This is an example of lateral thinking. We assume programmers provide labor to wallpaper the room- not the raw material to cover the wall. In Java when we write a function, a data type of each parameter is specified. But in Javascript, it's not. How does that affect the product? Could a program act in unexpected ways? And if it does, would it be chaos or something fresh and innovative?
 
 ## Convenience 
 
