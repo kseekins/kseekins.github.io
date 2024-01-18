@@ -22,7 +22,7 @@ This code from freeCodeCamp is a function that simulates the casino game Black J
 let count = 0;
 
 function cc(card) {
-  // Only change code below this line
+
   switch (card) {
     case 2:
     case 3:
@@ -44,7 +44,7 @@ function cc(card) {
   } else {
     return count + " Hold";
   }
-  // Only change code above this line
+
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
