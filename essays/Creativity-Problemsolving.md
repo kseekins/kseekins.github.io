@@ -50,11 +50,15 @@ function cc(card) {
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
 
-This code would be much harder to write if data types of parameters need to be set.  Converting "J" to a numerical value is easy, but how do we even get to that step? For example, if we were to specify cc (int card) like in Java, error will be thrown when cc(Q); is entered. It shows how Java does not operate like the human mind- it does not have a latitude of thinking that programmers could, theoretically, be used to wallpaper the entire room. 
+This code would be much harder to write if data types of parameters need to be set.  Converting "J" to a numerical value is easy, but how do we even get to that step? For example, if we were to specify cc (int card) like in Java, error will be thrown when cc(Q); is entered. It shows how Java does not operate like the human mind- it does not have a latitude of thinking that programmers could, at least theoretically, be used to wallpaper the entire room. 
 
-## Chaos
+## It's not how it works
 
-We could 
+So far this freedom of parameters seem like a blessing. It mirrors our reality better, in which we can accomdate and accept that J can mean 11 when we play a card game. But where is the trade off? Let's look at the code I wrote for the previous prompt.
+
+
+
+
 ## In the context of relationships
 
 
