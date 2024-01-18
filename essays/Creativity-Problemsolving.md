@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Medicine and Computer Science"
+title: "Data Types: Problem Solving and Creativity"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-17
 published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
