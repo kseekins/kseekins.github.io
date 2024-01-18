@@ -56,12 +56,45 @@ This code would be much harder to write if data types of parameters need to be s
 
 So far this freedom of parameters seem like a blessing. It mirrors our reality better, in which we can accomdate and accept that J can mean 11 when we play a card game. But where is the trade off? Let's look at the code I wrote for the previous prompt.
 
+let count = 0;
 
+function cc(card) {
+  var call = "Hold";
+  var msgDisplay = count + " " + call;
+  switch (card) {
+    case 2:
+    case 3: 
+    case 4:
+    case 5: 
+    case 6:
+      count++;
+      break;
+    case 10:
+    case 'J':
+    case 'Q':
+    case 'K':
+    case 'A': 
+      count--;
+      break; 
+  }
+  if (count > 0){
+    call = "Bet";
+    return msgDisplay;
+  } else {
+   
 
+  return msgDisplay ;
+  }
 
-## In the context of relationships
+  cc(2); cc(3); cc(7); cc('K'); cc('A');
+}
 
+  This code would work only if 7, 8 or 9, but no other choices were made for the parameter. My assumption was that the string msgDisplay would retrieve the values for variables count and call was only correct when it's declared. Once it was declared the string was static. The code was like a broken clock that was accurate twice a day- it would always return "0 Hold" no matter what. This is an example of an error when a programmer writes as if a compiler is human.  After writing all the lines about when to count up or down, I forgot that strings were immutable. 
+  
+## Error Message or...
 
+   If a function is such that different data types can work, the behavior of the program will be harder to predict. There will be more opportunities to make wrong assumptions. A rudimentary example is the +. It can add numbers but it can also concatenate strings. In a way, programming can show us how WE are rigid. In my non-type specific parameters: a short horror story, programmers are sent to  wallpaper a room... If we're lucky, the compiler might just throw an error. 
+  
 ## Reference
 
 freeCodeCamp Challenge Guide: Counting Cards
