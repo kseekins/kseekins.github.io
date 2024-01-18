@@ -89,7 +89,7 @@ function cc(card) {
   cc(2); cc(3); cc(7); cc('K'); cc('A');
 }
 
-  This code would work only if 7, 8 or 9, but no other choices were made for the parameter. My assumption was that the string msgDisplay would retrieve the values for variables count and call. This was only correct when it was declared. Once it was declared the string was static. The code was like a broken clock that was accurate twice a day- it would always return "0 Hold" no matter what. This is an example of an error when a programmer writes as if a compiler is human.  After writing all the lines about when to count up or down, I forgot that strings were immutable. 
+  This code would work only if 7, 8 or 9, but no other choices were made for the parameter. My assumption was that the string msgDisplay would retrieve the values for variables count and call. This was only correct when it was declared. Once it was declared the string was set in stone. The code was like a broken clock that was accurate twice a day- it would always return "0 Hold" no matter what. This is an example of an error when a programmer writes as if a compiler is human.  After writing all the lines about when to count up or down, I forgot that strings were immutable. 
   
 ## Error Message or...
 
