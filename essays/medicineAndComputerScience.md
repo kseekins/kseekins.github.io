@@ -23,27 +23,25 @@ I also enjoyed the problem solving aspect of the job.  Chief among them was find
 Switch (How Mad Are They){
 
   case 1: They can live with it
-  
-  apologize;
-  give drink coupons;
-  break;
+    apologize;
+    give drink coupons;
+    break;
 
   case 2: They are furious
-  
-  apologize;
-  look for rooms; 
-    If (I can switch rooms with another reservation){
-    switch these rooms;
-    } else {
-      if (there is a higher category room with 2 beds){
-      sweet talk to them and see if they take a free upgrade but with 2 beds
+    apologize;
+    look for rooms; 
+      If (I can switch rooms with another reservation){
+        switch these rooms;
+      } else {
+        if (there is a higher category room with 2 beds){
+        sweet talk to them and see if they take a free upgrade but with 2 beds
           if (Guest == happy){
-          return;
+            return;
           }else{
-          look for an ocean view king bed opening up nextday;
-            if (Guest != happy){
-            look into transferring them to a sister hotel; //last option
-            }
+            look for an ocean view king bed opening up nextday;
+              if (Guest != happy){
+                look into transferring them to a sister hotel; //last option
+              }
     break;
 }
 
