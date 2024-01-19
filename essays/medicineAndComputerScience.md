@@ -59,7 +59,7 @@ Covid put a pause on both work and dancing. It gave me enough time to think, and
 
 ## Medicine
 
-I'm interested in learning how machine learning can lead to better treatments, especially in the field of neurology. I've started to study python on my own last year. Bulk of my pre-medicine courses dealt with organic and biological chemistry. I've completed courses on Java, Discrete Math, Algorithms, C and C++. I'm excited to take ICS 314: Software Engineering since it opens doors to take courses in Data science. I'm excited to learn Javascript, and creating a practical application that solves a problem- preferably medical. 
+I'm interested in learning how machine learning can lead to better treatments, especially in the field of neurology. I've started to study Python on my own last year. Bulk of my pre-medicine courses dealt with organic and biological chemistry. I've completed courses on Java, Discrete Math, Algorithms, C and C++. I'm excited to take ICS 314: Software Engineering since it opens doors to take courses in Data science. I'm excited to learn Javascript, and creating a practical application that solves a problem- preferably medical. 
 
 I've begun inquiring with both medical non-profits where I volunteer to determine if there are any issues that could potentially be addressed using Javascript. It seems that for all the "low hanging fruits", there is a software for them. In some cases, less software would be ideal; the volunteers often juggle different applications. Adding another adds clutter to the screen and more jumping between applications. Luckily, I still have 3 months to submit my final project for ICS 314. 
 
