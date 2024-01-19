@@ -15,4 +15,4 @@ summary: ""
 </div>
 
 
-Water Hands Hope is a non profit with majority of volunteers in Honolulu, Hawaii. 
+Water Hands Hope is a non profit with majority of volunteers in Honolulu, Hawaii. The volunteers travel annually to deliver water filtration materials to Papua New Guinea. I'm currently working on consolidating its data to mWater app. My other contribution is to develop an interactive training material for water sanitation and hygiene. 
