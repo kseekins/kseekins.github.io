@@ -3,20 +3,51 @@ layout: essay
 type: essay
 title: "Medicine and Computer Science"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-18
 published: true
 labels:
   - Engineering
+  - Career Choices
+  - Medicine
 ---
 
 
 
 ## Hello, Computer Science
 
-Hotel front desk seems like an odd place to develop interest in computer science. However, that was the case for me. I noticed that I was happier playing with computers. The property management system was called LightSpeed, written in Java. Ironically, LightSpeed was much slower than its predecessor, Galaxy. Galaxy was my favorite part of the job- it worked so fast, probably thanks to its command line interface. And the command line interface made me feel...like I was doing something really smart (I wasn't). 
+Hotel front desk seems like an odd place to develop interest in computer science. However, that was the case for me. I was happier working with computers. The property management system was called LightSpeed, written in Java. Ironically, LightSpeed was much slower than its predecessor, Galaxy. Galaxy was my favorite part of the job- it worked so fast, probably thanks to its command line interface. And the command line interface made me feel...like I was doing something really smart (I wasn't). 
 
-I also enjoyed problem solving that came with the job.  Chief among them was finding a different room for a guest who disliked their room. I'd later realize that this was a variation on the scheduling problem- our problem being 791 rooms consisting of 3 buildings, 23 room types, and some siginificat differences even within a room type.We would often have rooms with 1 King bed ocean view oversold, and have only ocean views with 2 double beds left. Honeymooners would check in and be distraught, but more often, furious. I also enjoyed problem solving in general. I'd later realize that this was a variation on the scheduling problem- our problem being 791 rooms consisting of 3 buildings, 23 room types, and some siginificat differences even within a room type.
+I also enjoyed the problem solving aspect of the job.  Chief among them was finding a different room for a guest who disliked their room. I'd later realize that this was a variation on the scheduling problem- our problem being 791 rooms consisting of 3 buildings, 23 room types, and some siginificat differences even within a room type. We would often have rooms with 1 King bed ocean view oversold, and have only ocean views with 2 double beds left. Honeymooners would check in and be distraught, but more often, furious. I've written a pseudocode for how I'd handle this situation:
 
+
+Switch (How Mad Are They){
+
+  case 1: They can live with it
+  apologize;
+  give drink coupons;
+  break;
+
+  case 2: They are furious
+  apologize;
+  look for rooms; 
+    If (I can switch rooms with another reservation){
+    switch these rooms;
+    } else {
+      if (there is a higher category room with 2 beds){
+      sweet talk to them and see if they take a free upgrade but with 2 beds
+          if (Guest == happy){
+          return;
+          }else{
+          look for an ocean view king bed opening up nextday;
+            if (Guest != happy){
+            look into transferring them to a sister hotel; //last option
+            }
+    break;
+}
+
+This doesn't include the scheduling problem of finding a desired room. In 2015, I enrolled in KCC and took ICS 111 and 141, Introduction to Java Programming and Introduction to Discrete Mathematics in Computer Science. 
+    
+  
 
 
 ## In the context of programming
