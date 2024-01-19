@@ -6,7 +6,7 @@ title: "Patient Advocay Task Force"
 date: 2021
 published: true
 labels:
-  - Java
+  - homelessness
 summary: "Improving how we connect homeless patients with resources."
 ---
 
