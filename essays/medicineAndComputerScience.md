@@ -55,16 +55,14 @@ This is separate from the scheduling problem of finding a desired room. In 2015,
 
 ## COVID-19
 
-Covid put a pause on both work and dancing. It gave me enough time to think and take the plunge of returning to school on a full time basis. I started to reconsider my previous  
-## In the context of engineering
+Covid put a pause on both work and dancing. It gave me enough time to think, and to take the plunge of returning to school full time.  I took an inventory of my skills and interests, and decided to explore the possibility of studying medicine. In 2020, I started volunteering at Hawaii Home Project Clinic, a free clinic for Oahu's homeless population run by the University of Hawaii Medical School. Since then I've worked as a Certified Nurse Aide as well. I appreciate medicine having both human and problem solving aspects. I'm scheduled to graduate UH Manoa with a B.A. in Information and Computer Science, with focus on Biology in spring 2025. I plan on going to medical school afterwards. 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Medicine
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+I'm interested in learning how machine learning can lead to better treatments, especially in the field of neurology. I've started to study python on my own last year. Bulk of my pre-medicine courses dealt with organic and biological chemistry. I've completed courses on Java, Discrete Math, Algorithms, C and C++. I'm excited to take ICS 314: Software engineering since it opens doors to take courses in Data science. I'm excited to learn Javascript, and creating a practical application that solves a problem. 
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## It's Made
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
