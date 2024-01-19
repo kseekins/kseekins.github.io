@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1.16.24ASCIIPOKEMON.jpg
+image: img/1.16.24HOMELOGO.jpg
 title: "Vintage Pokemon"
 date: 2021
 published: true
