@@ -48,7 +48,7 @@ Switch (How Mad Are They){
     break;
 }
 
-This is separate from the scheduling problem of finding a desired room. In 2015, I enrolled in KCC and took ICS 111 and 141, Introduction to Java Programming and Introduction to Discrete Mathematics in Computer Science. I enjoyed both courses. However, I didn't continue with it. 
+This is separate from the scheduling problem of finding a desired room. In 2015, I enrolled in KCC and took ICS 111 and 141, Introduction to Java Programming and Introduction to Discrete Mathematics in Computer Science. I enjoyed both courses. However, I didn't continue with school until... 
     
   
 
