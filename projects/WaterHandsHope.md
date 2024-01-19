@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/WHH LOGO.jpeg
 title: "Water Hands Hope"
-date: 2021
+date: 2022
 published: true
 labels:
   - Papua New Guinea
@@ -15,4 +15,4 @@ summary: ""
 </div>
 
 
-My teammates and I created a Graphical User Interface (GUI) for 2 player interactice Pokemon Go game. Pokemon species were created using inheritance- every Pokemon inhertired the object class pokemon. Every pokemon with an evolutionary ancestor inherited its ancestor's object class. 
+Water Hands Hope is a non profit with majority of volunteers in Honolulu, Hawaii. 
