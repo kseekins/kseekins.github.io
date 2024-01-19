@@ -9,17 +9,13 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Hello, Computer Science
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Hotel front desk seems like an odd place to develop interest in computer science. However, that was the case for me. I noticed that I was happier playing with computers. The property management system was called LightSpeed, written in Java. Ironically, LightSpeed was much slower than its predecessor, Galaxy. Galaxy was my favorite part of the job- it worked so fast, probably thanks to its command line interface. And the command line interface made me feel...like I was hacking something or doing something really smart (I wasn't). We would often have rooms with 1 King bed ocean view oversold, and have only ocean views with 2 double beds left. Honeymooners would check in and be distraught, but more often, furious. I also enjoyed problem solving in general. I'd later realize that this was a variation on the scheduling problem- our problem being 791 rooms consisting of 3 buildings, 23 room types, and some siginificat differences even within a room type.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
 
-Here's what I think: the difficult things will always be difficult.
 
 ## In the context of programming
 
