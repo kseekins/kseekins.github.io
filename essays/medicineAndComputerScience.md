@@ -23,13 +23,16 @@ I also enjoyed the problem solving aspect of the job.  Chief among them was find
 Switch (How Mad Are They){
 
   case 1: They can live with it
+  
     apologize;
     give drink coupons;
     break;
 
   case 2: They are furious
+  
     apologize;
     look for rooms; 
+    
       If (I can switch rooms with another reservation){
         switch these rooms;
       } else {
@@ -45,14 +48,14 @@ Switch (How Mad Are They){
     break;
 }
 
-This is separate from the scheduling problem of finding a desired room. In 2015, I enrolled in KCC and took ICS 111 and 141, Introduction to Java Programming and Introduction to Discrete Mathematics in Computer Science. However, I didn't continue with it. 
+This is separate from the scheduling problem of finding a desired room. In 2015, I enrolled in KCC and took ICS 111 and 141, Introduction to Java Programming and Introduction to Discrete Mathematics in Computer Science. I enjoyed both courses. However, I didn't continue with it. 
     
   
 
 
-## COVID 
+## COVID-19
 
-Covid put a pause on both work and dancing. It gave me enough time to think and take the plunge of returning to school on a full time basis. 
+Covid put a pause on both work and dancing. It gave me enough time to think and take the plunge of returning to school on a full time basis. I started to reconsider my previous  
 ## In the context of engineering
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
