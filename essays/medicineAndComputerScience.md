@@ -23,11 +23,13 @@ I also enjoyed the problem solving aspect of the job.  Chief among them was find
 Switch (How Mad Are They){
 
   case 1: They can live with it
+  
   apologize;
   give drink coupons;
   break;
 
   case 2: They are furious
+  
   apologize;
   look for rooms; 
     If (I can switch rooms with another reservation){
