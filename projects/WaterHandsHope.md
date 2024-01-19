@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/WHH LOGO.jpeg
 title: "Water Hands Hope"
 date: 2021
 published: true
