@@ -62,18 +62,3 @@ Covid put a pause on both work and dancing. It gave me enough time to think, and
 I'm interested in learning how machine learning can lead to better treatments, especially in the field of neurology. I've started to study python on my own last year. Bulk of my pre-medicine courses dealt with organic and biological chemistry. I've completed courses on Java, Discrete Math, Algorithms, C and C++. I'm excited to take ICS 314: Software engineering since it opens doors to take courses in Data science. I'm excited to learn Javascript, and creating a practical application that solves a problem. 
 
 
-## It's Made
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
