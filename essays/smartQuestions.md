@@ -27,7 +27,7 @@ Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm
 
 ## Exhibit Stupid
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="..img/Image 1-25-24 at 10.18 PM.jpeg">
 
 
 Stupid questions could still get answers. In this example, the inquirer 
