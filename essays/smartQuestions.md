@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions, Stupid Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-25
-published: false
+published: true
 labels:
   - Engineering
 ---
