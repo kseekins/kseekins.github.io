@@ -22,7 +22,7 @@ Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm
 
 ## Exhibit Smart 
 
-In stackoverflow, I looked for posts tagged with Javascript with highest score- indicating high approval from users, who can wither downvote or upvote a post. [This](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object) was one of them: short, sweet and to the point. 
+In stackoverflow, I looked for posts tagged with Javascript with highest score- indicating high approval from users, who can wither downvote or upvote a post. [This](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object) was one of them: short, sweet and to the point. They ask:
 
 
 Given an object:
@@ -49,8 +49,6 @@ To be fair, this question could be too simple such that googling or chatGPT is m
 
 Stupid questions could still get answers. In this example, the [inquirer asks](https://stackoverflow.com/questions/77883878/different-outputs-in-node-event-loop): "I have a few questions. Why do files have different order of promise output if they are written the same way? The second question is, why does my VSC display this order in the second file, if according to the rules and documentation the order should be completely different? Sometmes Immediate 1 is below DNS. And lastly, please write which order in both options would be correct and why. I watched dozens of videos, there are different explanations everywhere, I don’t offer documentation, I’m still too inexperienced for it." 
 
+
 The last part of the question assumes a hacker is willing to answer all of the questions. It's as if he's a professor writing an exam, or a paying client. His questions are painfully long to read. In addition, they fail to pinpoint which rule and documentation contradicts the varying order of outputs. As a result, the community just tells them that it's just the way it is; there is no reason for each asynchronous operation take the same duration for every execution. The inquirer is still very much left in the dark.  
 
-## P.S.
-
-I tried multiple times to insert photos of these exhibits with no suceess. I wanted to use the format <img class="img-fluid" src="../img/cotton/cotton-header.png">
