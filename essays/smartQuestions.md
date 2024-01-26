@@ -24,6 +24,7 @@ Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm
 
 In stackoverflow, I looked for posts tagged with Javascript with highest score- indicating high approval from users, who can wither downvote or upvote a post. [This](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object) was one of them: short, sweet and to the point. 
 
+
 Given an object:
 
 let myObject = {
