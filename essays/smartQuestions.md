@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="img-fluid" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="img-fluid" src="img/Image 1-25-24 at 10.18 PM.jpeg">
 
 ## Respect My Time
 
