@@ -27,19 +27,20 @@ In stackoverflow, I looked for posts tagged with Javascript with highest score- 
 
 Given an object:
 
+```javascript
 let myObject = {
   "ircEvent": "PRIVMSG",
   "method": "newURI",
   "regex": "^http://.*"
 };
-
+```
 How do I remove the property regex to end up with the following myObject?
-
+```javascript
 let myObject = {
   "ircEvent": "PRIVMSG",
   "method": "newURI"
 };
-
+```
 To be fair, this question could be too simple such that googling or chatGPT is more suitable. However, there is no ambiguity about what the inquirer needs. It does not presume a particular solution either. The community has come up with multiple answers that can satisfy their requirements. 
 
 
