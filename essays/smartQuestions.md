@@ -52,4 +52,4 @@ The last part of the question assumes a hacker is willing to answer all of the q
 
 ## P.S.
 
-I tried multiple times to insert photos of these exhibits with no suceess. I wanted to use the format 
+I tried multiple times to insert photos of these exhibits with no suceess. I wanted to use the format <img class="img-fluid" src="../img/cotton/cotton-header.png">
