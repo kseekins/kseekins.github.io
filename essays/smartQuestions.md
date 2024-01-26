@@ -27,7 +27,4 @@ Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm
 
 ## Exhibit Stupid
 
-<img class="img-fluid" src="..img/ExhibitStupid.png">
-
-
-Stupid questions could still get answers. In this example, the inquirer 
+Stupid questions could still get answers. In this example, the [inquirer asks](https://stackoverflow.com/questions/77883878/different-outputs-in-node-event-loop): "I have a few questions. Why do files have different order of promise output if they are written the same way? The second question is, why does my VSC display this order in the second file, if according to the rules and documentation the order should be completely different? Sometmes Immediate 1 is below DNS. And lastly, please write which order in both options would be correct and why. I watched dozens of videos, there are different explanations everywhere, I don’t offer documentation, I’m still too inexperienced for it." 
