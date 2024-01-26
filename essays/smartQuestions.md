@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Smart Questions, Stupid Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-25
 published: false
 labels:
   - Engineering
@@ -11,23 +11,13 @@ labels:
 
 <img width="200px" class="img-fluid" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Respect My Time
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+In How to Ask Questions The Smart by Eric Raymond and Rick Moen, there is a recurring theme  of time.  A question can reflect whether the inquirer values of the time of the community. When asking a question, we can take steps to ensure the least amount of hassle possible to answer it. Luckily, that came to me automatically having worked for busy bosses. When I worked in the hotel industry, I read a book about the service cultre at the Imperial Hotel in Tokyo. To take as much 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+rudeness filter ics 2211 yarnball
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## In the context of engineering
 
