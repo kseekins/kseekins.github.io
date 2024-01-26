@@ -13,29 +13,18 @@ labels:
 
 ## Respect My Time
 
-In How to Ask Questions The Smart by Eric Raymond and Rick Moen, there is a recurring theme  of time.  A question can reflect whether the inquirer values of the time of the community. When asking a question, we can take steps to ensure the least amount of hassle possible to answer it. Luckily, that came to me automatically having worked for busy bosses. When I worked in the hotel industry, I read a book about the service cultre at the Imperial Hotel in Tokyo. To take as much 
-
-rudeness filter ics 2211 yarnball
+In [How to Ask Questions The Smart by Eric Raymond and Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html), there is a recurring theme of time.  A question can reflect whether the inquirer values of the time of the community. When asking a question, we can take steps to aim for the least amount of hassle to answer it. When I worked in the hotel industry, I read a book about the service culture at the Imperial Hotel in Tokyo. One of the bellman interviewed said his philosophy was to anticipate and remove any forseeable hassles that guests might face. I feel this is a good instinct to have. This week I asked the class Discord to debug my code. I provided the link to the code, with line numbers on which I commented on the issues below. Luckily I got help within 20 minutes, and my code started to work.
 
 
+## Tangled yarnball 
 
-## In the context of engineering
+Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm more Japanese than most Japanese by being sometimes overly polite.  That has helped me in hotels and patient care. The  downside is that I could assume others value courtesy as much as I do.  Jeff Bigler's [tact filters](https://www.mit.edu/~jcb/tact.html) was enlightening as it never occured that "tact" could be applied in the incoming direction. It's acutally quite ingenious- theoretically no words could bother you when you add "...but they really didn't mean that".  Once in a Java class, I had a classmate review my Pokemon code as "a big tangled yarn ball- you need to straighten this put". Thinking of it now, it's funny and it makes sense. At the time, I was livid. 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Exhibit Smart 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
+## Exhibit 
 
 So back to the original premise; why is being one of the club officers so difficult?
 
