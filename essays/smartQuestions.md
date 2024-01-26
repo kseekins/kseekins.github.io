@@ -32,6 +32,7 @@ let myObject = {
   "method": "newURI",
   "regex": "^http://.*"
 };
+
 How do I remove the property regex to end up with the following myObject?
 
 let myObject = {
