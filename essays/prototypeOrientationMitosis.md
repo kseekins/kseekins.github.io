@@ -31,6 +31,7 @@ One of the key process that results in genetic diversity of organisms is DNA rec
 
 In this process, a new combinations of traits are made. 
 
+<img class="img-fluid" src="./mcclintock_knobs_MID_1.jpg">
 
 ## Final Note of Studying ICS at UHM
 
