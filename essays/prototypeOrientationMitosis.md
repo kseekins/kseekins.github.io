@@ -27,6 +27,9 @@ Could that similarity mean that prototypical object orientation can simulate how
 
 One of the key process that results in genetic diversity of organisms is DNA recombination process in meiosis. 
 
+img/chromosomeRecombination.jpeg
+
+
 
 ## Final Note of Studying ICS at UHM
 
