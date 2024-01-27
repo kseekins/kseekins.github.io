@@ -26,7 +26,7 @@ One of the differnces between Java and Javascript is how object is created. In J
 Could that similarity mean that prototypical object orientation can simulate how DNA is passed down? For instance, can it silmulate the process of meiosis? In meiosis, a diploid parent cell is divided twice to make 4 haploid gamete cells. Diploid cells have two copies of every gene, while haploid contains just one of each. Sperm and egg cells are gamete cells, and they combine to create a new diploid cell, a zygote that develops into a new individual. Chromosomes can physically cross over and and swap, creating a new combination of Genes. In this 
 
 One of the key process that results in genetic diversity of organisms is DNA recombination process in meiosis. 
-<img class="img-fluid" src="..../img/chromosomeRecombination.jpeg">
+<img class="img-fluid" src="./img/chromosomeRecombination.jpeg">
 ## img/chromosomeRecombination.jpeg
 
 
