@@ -19,7 +19,7 @@ Information and Computer Sceince (ICS) majors at University of Hawaii at Manoa (
 
 ## Protptypical Object Creation and Mitosis  
 
-One of the differnces between Java and Javascript is how objects are created. In Javascript, objects are created from other objects. Analogy used in our class was mitosis. All the cells in our body are created from cell division. We focused on mitosis for simplicity, as meiosis involves 2 succesive divisions and gene recombination. Just like a daugher cell receiving the same DNA as the mother cell, objects created from a previously existing object (the prototype)  inherits all its methods. 
+One of the differnces between Java and Javascript is how objects are created. In Javascript, objects are created from other objects. Analogy used in our class was mitosis. All the cells in our body are created from cell divisions. We focused on mitosis for simplicity, as meiosis involves 2 succesive divisions and gene recombinations. Just like a daugher cell receiving the same DNA as the mother cell, objects created from a previously existing object (the prototype)  inherits all its methods. 
 
 ## But How about Meiosis?
 
