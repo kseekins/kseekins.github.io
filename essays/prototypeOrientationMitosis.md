@@ -21,29 +21,11 @@ Information and Computer Sceince (ICS) majors at University of Hawaii at Manoa (
 
 One of the differnces between Java and Javascript is how object is created. In Javascript, objects are created from other objects. Analogy used in our class was mitosis. All the cells in our body are created from cell division. We focus on mitosis for simplicity, as meiosis involves 2 succesive divisions and gene recombination. Just like a daugher cell receiving the same DNA as the mother cell, objects created from a previously existing object (the prototype)  inherits all its methods. 
 
-## Exhibit Smart 
+## But How about Meiosis?
 
-In stackoverflow, I looked for posts tagged with Javascript with highest score- indicating high approval from users, who can wither downvote or upvote a post. [This](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object) was one of them: short, sweet and to the point. They ask:
+Could that similarity mean that prototypical object orientation can simulate how DNA is passed down? For instance, can it silmulate the process of meiosis? In meiosis, a diploid parent cell is divided twice to make 4 haploid gamete cells. Diploid cells have two copies of every gene, while haploid contains just one of each. Sperm and egg cells are gamete cells, and they combine to create a new diploid cell, a zygote that develops into a new individual. Chromosomes can physically cross over and and swap, creating a new combination of Genes. In this 
 
-
-Given an object:
-
-```javascript
-let myObject = {
-  "ircEvent": "PRIVMSG",
-  "method": "newURI",
-  "regex": "^http://.*"
-};
-```
-How do I remove the property regex to end up with the following myObject?
-```javascript
-let myObject = {
-  "ircEvent": "PRIVMSG",
-  "method": "newURI"
-};
-```
-To be fair, this question could be too simple such that googling or chatGPT is more suitable. However, there is no ambiguity about what the inquirer needs. It does not presume a particular solution either. The community has come up with multiple answers that can satisfy their requirements. 
-
+One of the key process that results in genetic diversity of organisms is DNA recombination process in meiosis. 
 
 
 ## Final Note of Studying ICS at UHM
