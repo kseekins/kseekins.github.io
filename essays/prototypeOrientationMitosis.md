@@ -46,10 +46,11 @@ To be fair, this question could be too simple such that googling or chatGPT is m
 
 
 
-## Exhibit Stupid
+## Final Note of Studying ICS at UHM
 
-Stupid questions could still get answers. In this example, the [inquirer asks](https://stackoverflow.com/questions/77883878/different-outputs-in-node-event-loop): "I have a few questions. Why do files have different order of promise output if they are written the same way? The second question is, why does my VSC display this order in the second file, if according to the rules and documentation the order should be completely different? Sometmes Immediate 1 is below DNS. And lastly, please write which order in both options would be correct and why. I watched dozens of videos, there are different explanations everywhere, I don’t offer documentation, I’m still too inexperienced for it." 
+ICS 314: Software Engineering is a required course for ICS majors at UHM. The class does not revolve around exams, but weekly WODs: an in class timed programming assignment. Professor Johnson has compared it to Project Runway. It is a reality TV show of budding fashion designers who are given curve ball assignemnets to create garments in a time crunch. I appreciated him comparing this course to my favorite TV show. It has made me realize that being a student is all about optimizing the scarce time we have. 
 
 
-The last part of the question assumes a hacker is willing to answer all of the questions. It's as if he's a professor writing an exam, or a paying client. His questions are painfully long to read. In addition, they fail to pinpoint which rule and documentation contradicts the varying order of outputs. As a result, the community just tells them that it's just the way it is; there is no reason for each asynchronous operation take the same duration for every execution. The inquirer is still very much left in the dark.  
+
+
 
