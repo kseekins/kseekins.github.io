@@ -13,6 +13,7 @@ labels:
 
 ## Class-Based versus Prototype-based Objects
 
+
 Information and Computer Sceince (ICS) majors at University of Hawaii at Manoa (UHM) are taught Java in the beginning. We are then introduced to Javascript. I've always wondered why it was so. I wished that they would teach Python instead of Java, since much of the machine learning research uses Python. So far, I finshied the 3rd week of ICS 314: Software Engineering. It has focued on Javascript so far. Now I suspect that we were taught Java first to highlight the differences programming languages can have. 
 
 ## Tangled yarnball 
