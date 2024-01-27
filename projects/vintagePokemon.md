@@ -4,7 +4,7 @@ type: project
 image: img/1.16.24ASCIIPOKEMON.jpg
 title: "Vintage Pokemon"
 date: 2021
-published: true
+published: false
 labels:
   - Java
 summary: "My team developed a Pokemon battle game, with the nostalgia of ASCII."
