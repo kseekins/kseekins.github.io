@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/1.16.24ASCIIPOKEMON.jpg
-title: "Vintage Pokemon"
+image: img/Local5.png
+title: Covid19 Saftey Committee Member
 date: 2021
 published: true
 labels:
   - Java
-summary: "My team developed a Pokemon battle game, with the nostalgia of ASCII."
+summary: "Promoting Safe Work conditions"
 ---
 
 <div class="text-center p-4">
