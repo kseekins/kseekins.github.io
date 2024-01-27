@@ -17,9 +17,9 @@ labels:
 
 Information and Computer Sceince (ICS) majors at University of Hawaii at Manoa (UHM) are taught Java in the beginning. We are then introduced to Javascript. I've always wondered why it was so. I wished that they would teach Python instead of Java, since much of the machine learning research uses Python. So far, I finshied the 3rd week of ICS 314: Software Engineering. It has focued on Javascript so far. Now I suspect that we were taught Java first to highlight the differences programming languages can have. 
 
-## Tangled yarnball 
+## Protptypical Object Creation and Mitosis  
 
-Courtesy is important to me. I joke that even though I'm not fully Japanese, I'm more Japanese than most Japanese by being sometimes overly polite.  That has helped me in hotels and patient care. The  downside is that I could assume others value courtesy as much as I do.  Jeff Bigler's [tact filters](https://www.mit.edu/~jcb/tact.html) was enlightening as it never occured that "tact" could be applied in the incoming direction. It's acutally quite ingenious- theoretically no words could bother you when you add "...but they really didn't mean that".  Once in a Java class, I had a classmate review my Pokemon code as "a big tangled yarn ball- you need to straighten this put". Thinking of it now, it's funny and it makes sense. At the time, I was livid. 
+One of the differnces between Java and Javascript is how object is created. In Javascript, objects are created from other objects. Analogy used in our class was mitosis. All the cells in our body are created from cell division. We focus on mitosis for simplicity, as meiosis involves 2 succesive divisions and gene recombination. Just like a daugher cell receiving the same DNA as the mother cell, objects created from a previously existing object (the prototype)  inherits all its methods. 
 
 ## Exhibit Smart 
 
