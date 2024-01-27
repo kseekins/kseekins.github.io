@@ -30,7 +30,6 @@ One of the key process that results in genetic diversity of organisms is DNA rec
 ## img/chromosomeRecombination.jpeg
 
 
-
 ## Final Note of Studying ICS at UHM
 
 ICS 314: Software Engineering is a required course for ICS majors at UHM. The class does not revolve around exams, but weekly WODs: an in class timed programming assignment. Professor Johnson has compared it to Project Runway. It is a reality TV show of budding fashion designers who are given curve ball assignemnets to create garments in a time crunch. I appreciated him comparing this course to my favorite TV show. It has made me realize that being a student is all about optimizing the scarce time we have. 
