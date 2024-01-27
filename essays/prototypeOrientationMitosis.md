@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Stupid Questions"
+title: "Javascript and Genetics"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-25
+date: 2023-01-26
 published: true
 labels:
   - Engineering
@@ -11,10 +11,9 @@ labels:
 
 
 
-## Respect My Time
+## Class-Based versus Prototype-based Objects
 
-In [How to Ask Questions The Smart by Eric Raymond and Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html), there is a recurring theme of time.  A question can reflect whether the inquirer values of the time of the community. When asking a question, we can take steps to aim for the least amount of hassle to answer it. When I worked in the hotel industry, I read a book about the service culture at the Imperial Hotel in Tokyo. One of the bellman interviewed said his philosophy was to anticipate and remove any forseeable hassles that guests might face. I feel this is a good instinct to have. This week I asked the class Discord to debug my code. I provided the link to the code, with line numbers on which I commented on the issues below. Luckily I got help within 20 minutes, and my code started to work.
-
+Information and Computer Sceince (ICS) majors at University of Hawaii at Manoa (UHM) are taught Java in the beginning. We are then introduced to Javascript. I've always wondered why it was so. I wished that they would teach Python instead of Java, since much of the machine learning research uses Python. So far, I finshied the 3rd week of ICS 314: Software Engineering. It has focued on Javascript so far. Now I suspect that we were taught Java first to highlight the differences programming languages can have. 
 
 ## Tangled yarnball 
 
