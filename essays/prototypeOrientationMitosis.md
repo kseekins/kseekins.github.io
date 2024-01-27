@@ -32,7 +32,7 @@ This results in new combinations of traits.
 
 <img class="img-fluid" src="./mcclintock_knobs_MID_1.jpg">
 
-Here we see the divergence, or the limit of the analogy. In Javascript, a new object inherits the functions of the prototype. It can then add new functions of it's own.  In gene recobination, there is no added functionality. It's as if two objects are trading parts of their prototypes. Mutating prototypes is highly discouraged in Javascript, as it annulls how Javascript optimize property accesses. A possible work around of this problem is to consider functions as gene positions, instead of the genes themselves. 
+Here we see a divergence, or the limit of the analogy. In Javascript, a new object inherits the functions of the prototype. It can then add new functions of it's own.  In gene recobination, there is no added functionality. It's as if two objects are trading parts of their prototypes. Mutating prototypes is highly discouraged in Javascript, as it annulls how Javascript optimize property accesses. A possible work around of this problem is to consider functions as gene positions, instead of the genes themselves. 
 
 ## Final Note of Studying ICS at UHM
 
