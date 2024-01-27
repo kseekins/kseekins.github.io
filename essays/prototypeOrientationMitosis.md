@@ -23,12 +23,12 @@ One of the differnces between Java and Javascript is how objects are created. In
 
 ## But How about Meiosis?
 
-Could that similarity mean that prototypical object orientation can simulate how DNA is passed down? For instance, can it silmulate the process of meiosis? In meiosis, a diploid parent cell is divided twice to make 4 haploid gamete cells. Diploid cells have two copies of every gene, while haploid contains just one of each. Sperm and egg cells are gamete cells, and they combine to create a new diploid cell, a zygote that develops into a new individual. In the process, Chromosomes are physically crossed over and and portions swapped, creating a new combination of Genes. 
+Could that similarity mean that prototypical object orientation can simulate how DNA is passed down? For instance, can it silmulate the process of meiosis? In meiosis, a diploid parent cell is divided twice to make 4 haploid gamete cells. Diploid cells have two copies of every gene, while haploid contains just one of each. Sperm and egg cells are gamete cells, and they combine to create a new diploid cell, a zygote that develops into a new individual. In the process, Chromosomes are physically crossed over and have portions swapped, creating new combinations of Genes. 
 
 
 <img class="img-fluid" src="./chromosomeRecombination.jpeg">
 
-In this process, a new combinations of traits are made. 
+This results in new combinations of traits.
 
 <img class="img-fluid" src="./mcclintock_knobs_MID_1.jpg">
 
