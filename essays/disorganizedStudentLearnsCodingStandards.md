@@ -7,7 +7,7 @@ date: 2024-02-08
 published: true
 labels:
   - Engineering
-  - ADHD
+  - Coding Standard
 ---
 
 
@@ -40,3 +40,8 @@ Do we rename the files .gitignore. or gitignore? Is there a better way to differ
 ## Can Coding Standard Help My Coding Exams
 
 I went back to my failed coding exam to see if coding standrds can help debug the problem. 
+
+<img class = "img-fluid" src= "./2.8.24.icsexam314.png">
+
+'''JAVASCRIPT
+console.log(hasLove(helloLoveLyrics)); 
