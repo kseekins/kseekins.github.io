@@ -43,5 +43,8 @@ I went back to my failed coding exam to see if coding standrds can help debug th
 
 <img class = "img-fluid" src= "./2.8.24.icsexam314.png">
 
-'''JAVASCRIPT
+'''
+
 console.log(hasLove(helloLoveLyrics)); 
+
+'''
