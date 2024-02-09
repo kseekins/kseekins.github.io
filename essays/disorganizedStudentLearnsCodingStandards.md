@@ -4,7 +4,7 @@ type: essay
 title: "A Disorganized Student Learns Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: false
+published: true
 labels:
   - Engineering
   - ADHD
