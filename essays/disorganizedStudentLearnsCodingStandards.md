@@ -51,3 +51,6 @@ console.log(hasLove(helloLoveLyrics));
 ```
 In this particular instance, my code meets all coding standards by ESLint, so coding standards did not help. They could help depending on the errors. For instance had I just mistyped the function name, ES lint would have caught an unused expression. My next step is to manipulate the _.some function; perhaps removing the toLowerCase() method:
 
+<img class = "img-fluid" src= "./noLuckyet2.8.24ICS314.png">
+
+Still no luck, love is in the song lyrics but my function can't see it. 
