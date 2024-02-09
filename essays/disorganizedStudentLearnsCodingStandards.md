@@ -43,8 +43,11 @@ I went back to my failed coding exam to see if coding standrds can help debug th
 
 <img class = "img-fluid" src= "./2.8.24.icsexam314.png">
 
+This part of the code should have printed true:
 ```javascript
 
 console.log(hasLove(helloLoveLyrics)); 
 
 ```
+In this particular instance, my code meets all coding standards by ESLint, so coding standards did not help. They could help depending on the errors. For instance had I just mistyped the function name, ES lint would have caught an unused expression. My next step is to manipulate the _.some function; perhaps removing the toLowerCase() method:
+
