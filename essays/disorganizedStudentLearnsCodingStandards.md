@@ -29,15 +29,14 @@ In my own experience in calculus, physics and chemistry classes, writing neater 
 Learning coding standards in Computer Science has been frustrating. For instance, I spent a good couple of hours struggling to have node_modules installed on IntelliJ IDEA. I was embarassed to ask the class on Discord, espcially a week after reflecting on asking "Smart Questions".  I asked my TA in person, who pointed out that I put an extra '.'; I named a file .package.json instead of package.json. She kindly told me that many people lose hours on a missing dot. 
 
   
-## Error Message or...
+## Do I Ignore the .
 
 Installing and getting used to the tools for code standards have been the frustrating part. That work in itself was educational; it showed how reducing ambiguity saves time and brain power. For example: 
 
 <img class= "img-fluid" src= "./instruction2.8.24 ICS 314.png">
 
+Do we rename the files .gitignore. or gitignore? Is there a better way to differentiate if '.' or '?' are part of a program name or part of a sentence in instructions? 
 
-## Reference
+## Can Coding Standard Help My Coding Exams
 
-freeCodeCamp Challenge Guide: Counting Cards
-Camperbot et al.
-https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-counting-cards/16809
+I went back to my failed coding exam to see if coding standrds can help debug the problem. 
