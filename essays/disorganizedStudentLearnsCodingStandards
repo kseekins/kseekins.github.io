@@ -12,46 +12,13 @@ labels:
 
 
 
-*How Many Programmers are needed to Wallpaper an Entire Room?*
+*Why Is Everything a Mess?*
 
-My favorite answer is, depends on how thinly you slice them. This is an example of lateral thinking. We assume programmers provide labor to wallpaper the room- not the raw material to cover the wall. In Java functions, a data type of each parameter is specified. But in Javascript, it's not. How does that affect the product? Could a program act in unexpected ways? And if it does, would it be chaos or something fresh and innovative?
+Today we had an in class exam that involved: 1) coding a function that returns true when 'love' is in a string; 2) complying with ES lint coding standards. Despite preparing for the exam and liking the subject, I failed. I feel I'm slower in doing things in general- in another example, I would almost always be the last student to be done in organic chemistry lab. It makes me wonder if there are other forms of intelligence beyond completing a given task quickly. If we could display our minds in console windows, would more academically successful students have easier to read code then mine?
 
-## Convenience 
+## Notes
 
-This code from freeCodeCamp is a function that simulates the casino game Black Jack.
-
-let count = 0;
-
-function cc(card) {
-
-  switch (card) {
-  
-    case 2:
-    case 3:
-    case 4:
-    case 5:
-    case 6:
-    count++;
-      break;
-    case 10:
-    case "J":
-    case "Q":
-    case "K":
-    case "A":
-      count--;
-      break;
-  }
-  if (count > 0) {
-    return count + " Bet";
-  } else {
-    return count + " Hold";
-  }
-
-}
-
-cc(2); cc(3); cc(7); cc('K'); cc('A');
-
-This code would be much harder to write if data types of parameters need to be set.  Converting "J" to a numerical value is easy, but how do we even get to that step? For example, if we were to specify cc (int card) like in Java, error will be thrown when cc(Q); is entered. It shows how Java does not operate like the human mind- it does not have a latitude of thinking that programmers could, at least theoretically, be used to wallpaper the entire room. 
+My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross 
 
 ## It's not how it works
 
