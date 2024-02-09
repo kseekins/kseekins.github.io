@@ -32,7 +32,9 @@ Learning coding standards in Computer Science has been frustrating. For instance
 ## Error Message or...
 
 Installing and getting used to the tools for code standards have been the frustrating part. That work in itself was educational; it showed how reducing ambiguity saves time and brain power. For example: 
+
 <img class= "img-fluid" src= "./instruction2.8.24 ICS 314.png">
+
 
 ## Reference
 
