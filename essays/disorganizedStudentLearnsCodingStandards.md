@@ -19,7 +19,9 @@ Today we had an in class exam that involved: 1) coding a function that returns t
 ## Notes
 
 My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
-
+<img width="200px" 
+       src="./IMG_1005.jpeg" 
+       class="img-thumbnail" >
 <img class="img-fluid" src= "./IMG_1005.jpeg">
 ## It's not how it works
 
