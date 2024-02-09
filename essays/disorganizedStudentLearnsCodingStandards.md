@@ -12,7 +12,7 @@ labels:
 
 
 
-*Will I do school better if I think better?*
+## Will I do school better if I think better?
 
 Today we had an in class exam that involved: 1) coding a function that returns true when 'love' is in a string; 2) complying with ES lint coding standards. Despite preparing for the exam and liking the subject, I failed. I'm slower in doing things in general- in another example, I would almost always be the last student to be done in organic chemistry lab. It makes me wonder if there are other forms of intelligence than completing a given task quickly. If we could display our minds in console windows, would more academically successful students have easier to read code then mine?
 
