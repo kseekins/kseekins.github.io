@@ -7,7 +7,7 @@ date: 2024-02-08
 published: true
 labels:
   - Engineering
-  - Coding Standard
+  - Coding Standards
 ---
 
 
