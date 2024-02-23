@@ -9,7 +9,7 @@ labels:
   - Engineering
   - Coding Standards
 ---
-<img width="1000px" height ="500px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
+<img width="800px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
 
 ## Not bad for 2 weeks of HTML design and UI framework 
