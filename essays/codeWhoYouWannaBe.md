@@ -27,7 +27,7 @@ This week, I wrote a website in my software engineering class. We were to choose
 
 ## What is Real?
 
-Having firsthand experience with a UI framework teaches us about professional-looking websites. That image of the Hawaii Travel Website is as reliable as a hand-scribbled note saying, "Heater is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones." Anyone can produce either. Before learning UI frameworks, I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek-looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure.
+Having firsthand experience with a UI framework teaches us about professional-looking websites. That image of the Hawaii Travel Website is as reliable as a hand-scribbled note saying, "Heather is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones." Anyone can produce either. Before learning UI frameworks, I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek-looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure.
 
 ## I Feel Old
 
