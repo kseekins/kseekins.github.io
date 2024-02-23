@@ -6,8 +6,8 @@ title: "A Disorganized Student Learns Coding Standards"
 date: 2024-02-08
 published: true
 labels:
-  - Engineering
-  - Coding Standards
+  - Web Desgin 
+  - UI Frameworks
 ---
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
