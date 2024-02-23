@@ -20,7 +20,11 @@ Today we had an in class exam that involved: 1) coding a function that returns t
 
 My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
 
-<img class="img-fluid" src= "./IMG_1005.jpeg">
+<img
+    src="IMG_1005.jpeg"
+    alt=""
+    class="d-block mx-auto w-25 rounded"
+/>
 
 In my own experience in calculus, physics and chemistry classes, writing neater notes has helped with comprehending the material. However sometimes I'd need to write chaotic, messy notes first. If I had time, I would rewrite it in a more organized fashion. But most of the time, my notes would never be rewritten or used. It clutters my bookshelf. 
 
