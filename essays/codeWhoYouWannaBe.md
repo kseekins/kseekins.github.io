@@ -23,7 +23,7 @@ My closest experince outside of coding to coding standards is note taking. I not
 <img
     src="IMG_1005.jpeg"
     alt="Centered Image"
-    class="d-block mx-auto w-25 rounded"
+    margin = "auto";
     width = 500px;
     height = 300px;
 />
