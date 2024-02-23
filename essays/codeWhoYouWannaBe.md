@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-
+<img src="./Fake-bananarepublic.jpg"  width = 500px; height = 200px;/>
 
 ## Not bad for 2 weeks of HTML design and UI framework 
 
@@ -19,9 +19,6 @@ This week I wrote a website in my software engineering class. We were to choose 
 ## Screenshots 
 
 My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
-
-<img src="./Fake-bananarepublic.jpg"  width = 500px; height = 200px;
-/>
 
 In my own experience in calculus, physics and chemistry classes, writing neater notes has helped with comprehending the material. However sometimes I'd need to write chaotic, messy notes first. If I had time, I would rewrite it in a more organized fashion. But most of the time, my notes would never be rewritten or used. It clutters my bookshelf. 
 
