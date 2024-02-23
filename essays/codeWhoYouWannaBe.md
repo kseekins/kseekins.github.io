@@ -14,6 +14,7 @@ labels:
 
 
 
+
 ## Not bad for 2 weeks of HTML design and UI framework 
 
 This week I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process I took creative liberties. I tweaked a bit more for this essay to give my desired effect: A corporate passing website with obviously ridiculous statements. Then it hit me: it's so easy to fake anything online. 
