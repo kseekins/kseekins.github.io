@@ -17,7 +17,7 @@ labels:
 
 ## Not bad for 2 weeks of HTML design and UI framework 
 
-This week I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process I took creative liberties. I tweaked a bit more for this essay to give my desired effect: A corporate passing website with obviously ridiculous statements. Then it hit me: it's so easy to fake anything online. I remember working at the Moana Surfrider front desk during COVID. To avoid quarntine, guests checking in needed to present a screenshot of the Hawaii Safe Travels website.
+This week I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process I took creative liberties. I tweaked a bit more for this essay to give my desired effect: A corporate passing website with obviously ridiculous statements. Then it hit me: it's so easy to fake anything online. I remember working at the Moana Surfrider front desk during COVID. To avoid quarntine, guests checking in needed to present a screenshot of the Hawaii Safe Travels website. But if I could make that cat-wearing-banana republic website look decent, couldn't anyone have replicated the Hawaii Safe Travel "You may skip quarntine" screen?
 
 ## Screenshots 
 
