@@ -9,8 +9,8 @@ labels:
   - Engineering
   - Coding Standards
 ---
+<img width="200px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
-<img src="./Fake-bananarepublic.jpg"  width = 500px; height = 200px;/>
 
 ## Not bad for 2 weeks of HTML design and UI framework 
 
