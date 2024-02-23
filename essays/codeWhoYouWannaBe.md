@@ -19,9 +19,10 @@ labels:
 
 This week I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process I took creative liberties. The fruit of my labor is on the left: A corporate passing website with ridiculous statements (and picture). Then it hit me: it's so easy to fake anything online. I remember working at the Moana Surfrider front desk during COVID. To avoid quarntine, guests checking in needed to present a screenshot of the Hawaii Safe Travels website. But if I could make that cat-wearing-banana republic website look decent, couldn't anyone have replicated the Hawaii Safe Travel "You may skip quarntine" screen?
 
-##  You Decide 
+ 
 
 <img width="200px"  class="rounded float-start pe-4" src="./IMG_2709.jpg">
+##  You Decide
 Having first hand experience with UI Framework teaches us about professional looking websites; That image of Hawaii Travel Website is as reliable as hand scribbled note saying "Heater is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones". Anyone can produce either. Before learning UI frameworks I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure. 
 
 ## Coding Standards 
