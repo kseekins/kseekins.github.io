@@ -24,6 +24,8 @@ My closest experince outside of coding to coding standards is note taking. I not
     src="IMG_1005.jpeg"
     alt="Centered Image"
     class="d-block mx-auto w-25 rounded"
+    width = 500px;
+    height = 300px;
 />
 
 In my own experience in calculus, physics and chemistry classes, writing neater notes has helped with comprehending the material. However sometimes I'd need to write chaotic, messy notes first. If I had time, I would rewrite it in a more organized fashion. But most of the time, my notes would never be rewritten or used. It clutters my bookshelf. 
