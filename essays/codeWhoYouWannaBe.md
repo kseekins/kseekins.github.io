@@ -22,9 +22,7 @@ This week I wrote a website in my software engineering class. We were to choose 
 ##  You Decide 
 
 <img width="200px"  class="rounded float-start pe-4" src="./IMG_2709.jpg">
-My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
-
-In my own experience in calculus, physics and chemistry classes, writing neater notes has helped with comprehending the material. However sometimes I'd need to write chaotic, messy notes first. If I had time, I would rewrite it in a more organized fashion. But most of the time, my notes would never be rewritten or used. It clutters my bookshelf. 
+Having first hand experience with UI Framework teaches us about professional looking websites; That image of Hawaii Travel Website is as reliable as hand scribbled note saying "Heater is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones". Anyone can produce either. Before learning UI frameworks I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure. 
 
 ## Coding Standards 
 
