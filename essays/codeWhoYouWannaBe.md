@@ -9,7 +9,7 @@ labels:
   - Engineering
   - Coding Standards
 ---
-<img width="600px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
+<img width="200px" height ="200px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
 
 
