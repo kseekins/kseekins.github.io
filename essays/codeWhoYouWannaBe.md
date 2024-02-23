@@ -21,7 +21,7 @@ This week I wrote a website in my software engineering class. We were to choose 
 My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
 
 <img
-    src="IMG_1005.jpeg"
+    src="/Fake-bananarepublic.jpg"
     width = 500px;
     height = 300px;
 />
