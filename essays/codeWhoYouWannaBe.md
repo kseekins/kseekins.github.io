@@ -35,4 +35,4 @@ I'm a 38-year-old returning college student. When I first went to college in 200
 
 ## AI Use In this Essay
 
-ChatGPT checked my spelling and grammar but did not edit or generate any ideas nor sentences.
+ChatGPT was only used to check spelling and grammar. 
