@@ -33,6 +33,6 @@ Having firsthand experience with a UI framework teaches us about professional-lo
 
 I'm a 38-year-old returning college student. When I first went to college in 2004, I did not have a cellphone. I handwrote my college applications, then mailed them via FedEx. Over the years, I was impressed by how everything—job applications, school applications, taxes—shifted online. Learning a UI framework feels like another leap of technology to me. More technology will be easily available in the next decade. Perhaps I can make a movie of me doing a backflip. And if I can post myself doing it online, why bother to learn it in real life? Or would we evolve to distrust anything we see online?
 
-AI Use In this Essay
+## AI Use In this Essay
 
 ChatGPT checked my spelling and grammar but did not edit or generate any ideas nor sentences.
