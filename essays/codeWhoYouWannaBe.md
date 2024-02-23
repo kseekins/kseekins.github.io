@@ -27,40 +27,11 @@ This week I wrote a website in my software engineering class. We were to choose 
 ##  You Decide
 Having first hand experience with UI Framework teaches us about professional looking websites; That image of Hawaii Travel Website is as reliable as hand scribbled note saying "Heater is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones". Anyone can produce either. Before learning UI frameworks I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure. 
 
+## I feel Old
+
+I'm a 38 year old returning college student. When I first went to college in 2004, I did not have a cellphone. I've hand written my college applications. I then mailed them via Fedex. Over the years I was impressed by how everything- job applications, school applications, taxes- shifted online. Learning UI framework feels like another leap of technology to me. More technology will be easily available in the next decade. Perhaps I can make a movie of me doing a backflip. And if I can post myself doing it online, why bother to learn it in real life? Or would we evolve to distrust anything we see online? 
 
 
-
-
-## Coding Standards 
-
-Learning coding standards in Computer Science has been frustrating. For instance, I spent a good couple of hours struggling to have node_modules installed on IntelliJ IDEA. I was embarassed to ask the class on Discord, espcially a week after reflecting on asking "Smart Questions".  I asked my TA in person, who pointed out that I put an extra '.'; I named a file .package.json instead of package.json. She kindly told me that many people lose hours on a missing dot. 
-
-  
-## Do I Ignore the .
-
-Installing and getting used to the tools for code standards have been the frustrating part. That work in itself was educational; it showed how reducing ambiguity saves time and brain power. For example: 
-
-<img class= "img-fluid" src= "./instruction2.8.24 ICS 314.png">
-
-Do we rename the files .gitignore. or gitignore? Is there a better way to differentiate if '.' or '?' are part of a program name or part of a sentence in instructions? 
-
-## Can Coding Standard Help My Coding Exams
-
-I went back to my failed coding exam to see if coding standrds can help debug the problem. 
-
-<img class = "img-fluid" src= "./2.8.24.icsexam314.png">
-
-This part of the code should have printed true:
-```javascript
-
-console.log(hasLove(helloLoveLyrics)); 
-
-```
-In this particular instance, my code meets all coding standards by ESLint, so coding standards did not help. They could help depending on the errors. For instance had I just mistyped the function name, ES lint would have caught an unused expression. My next step is to manipulate the _.some function; perhaps removing the toLowerCase() method:
-
-<img class = "img-fluid" src= "./noLuckyet2.8.24ICS314.png">
-
-Still no luck, love is in the song lyrics but my function can't see it. 
 
 ## AI Use In this Essay
 
