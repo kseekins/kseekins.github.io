@@ -12,11 +12,11 @@ labels:
 
 
 
-## Will I do school better if I think better?
+## Not bad for 2 weeks of HTML design and UI framework 
 
-Today we had an in class exam that involved: 1) coding a function that returns true when 'love' is in a string; 2) complying with ES lint coding standards. Despite preparing for the exam and liking the subject, I failed. I'm slower in doing things in general- in another example, I would almost always be the last student to be done in organic chemistry lab. It makes me wonder if there are other forms of intelligence than completing a given task quickly. If we could display our minds in console windows, would more academically successful students have easier to read code then mine?
+This week I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process I took creative liberties. I tweaked a bit more for this essay to give my desired effect: A corporate passing website with obviously ridiculous statements. Then it hit me: it's so easy to fake anything online. 
 
-## Notes
+## Screenshots 
 
 My closest experince outside of coding to coding standards is note taking. I noticed how I tend to write in big letters. I would often cross out words and write a correction. This is the one the more organized notes I have: 
 
