@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "On the Net, You Can Trully Be Who You Want to Be"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-02-22
 published: true
 labels:
   - Web Desgin 
@@ -26,6 +26,10 @@ This week I wrote a website in my software engineering class. We were to choose 
 
 ##  You Decide
 Having first hand experience with UI Framework teaches us about professional looking websites; That image of Hawaii Travel Website is as reliable as hand scribbled note saying "Heater is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones". Anyone can produce either. Before learning UI frameworks I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure. 
+
+
+
+
 
 ## Coding Standards 
 
