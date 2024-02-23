@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Disorganized Student Learns Coding Standards"
+title: "On the Net, You Can Trully Be Who You Want to Be"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
