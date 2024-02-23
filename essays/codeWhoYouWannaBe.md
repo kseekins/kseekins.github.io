@@ -22,7 +22,7 @@ My closest experince outside of coding to coding standards is note taking. I not
 
 <img
     src="IMG_1005.jpeg"
-    alt=""
+    alt="Centered Image"
     class="d-block mx-auto w-25 rounded"
 />
 
