@@ -37,7 +37,7 @@ Communal list of procrastination tasks
 
 Up vote (wow, that is a hot mess; you can vote that once a day); For 10 or more hot mess votes, your demon will enter the hall of fame. 
 
-Throw a drink at your demon’s face (You can click this if you do something about it for 3 minutes; users will get reminders to at least “throw a drink” at your procrastination demons. )
+Throw a drink at your procrastination task’s face (You can click this if you do something about it for 3 minutes; users will get reminders to at least “throw a drink” at your procrastination demons. )
 
 Kill button: For that special moment when you get it done!!!
 
