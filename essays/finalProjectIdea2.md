@@ -15,7 +15,7 @@ labels:
 
 
 
-## Procrastinator Tamagocchi: Facebook for your ominous tasks that feeds on your mental health
+## Procrastinator Tamagocchi: Facebook for your ominous tasks that feed on your mental health
 
 ## Overview
 
