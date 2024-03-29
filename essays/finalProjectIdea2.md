@@ -27,7 +27,7 @@ Check boxes: Urgent-non urgent and Important-less important checkboxes
 
 Category Areas: is it coursework? Paper work? Applications? Taxes? 
 
-Choose an avatar for your procrastination: Regan MacNeil from exorcist , The Babadook, Samara Morgan, Darth Vader, Mrs. Sallie Mae. 
+Choose an avatar for your procrastination: The girl from the exorcist , The Babadook, Samara Morgan, Darth Vader, Mrs. Sallie Mae. 
 
 Deadlines and consequences section 
 
