@@ -18,7 +18,7 @@ labels:
 
 ## Pedagogy of Software Development
 
-ICS 314: Software Engineering is a required course for Computer Science majors at the University of Hawaii at Manoa. The latter part of the course is analogous to taking an engine apart to learn how to make it. We saw videos of instructor writing the program by modifying  pre-existing codes. We repeated what we saw, modifying a pre-existing code exactly the same, from our memory. 
+ICS 314: Software Engineering is a required course for Computer Science majors at the University of Hawaii at Manoa. The latter part of the course is analogous to taking an engine apart to learn how to make it. We saw videos of instructor writing the program by modifying  pre-existing codes. We repeated what we saw, modifying a pre-existing code exactly the same, from our memory. This method exploits the fact that "homan beings are pattern-forming machines", a quote by my first computer science professor. With so much remembering by doing, we could, potentially, find patterns and principles behind how a problem is solved. 
 
 
  
