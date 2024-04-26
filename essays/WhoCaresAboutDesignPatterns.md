@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "On the Net, You Can Truly Be Who You Want to Be"
+title: "Who Cares about Design Patterns?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2024-04-25
 published: true
 labels:
-  - Web Desgin 
-  - UI Frameworks
+  - Software Development
+  - Design Patterns
 ---
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
