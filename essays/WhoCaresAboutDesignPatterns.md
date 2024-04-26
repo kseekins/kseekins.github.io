@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Development
   - Design Patterns
+  - Pedagogy
 ---
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
 
@@ -15,9 +16,9 @@ labels:
 
 
 
-## Not Bad for 2 Weeks of HTML Design and UI Framework 
+## Pedagogy of Software Development
 
-This week, I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process, I took creative liberties. The fruit of my labor is on the left: a corporate-passing website with ridiculous statements (and pictures). Then it hit me: it's so easy to fake anything online. I remember working at the Moana Surfrider front desk during COVID. To avoid quarantine, guests checking in needed to present a screenshot of the Hawaii Safe Travels website. But if I could make that cat-wearing-banana republic website look decent, couldn't anyone have replicated the Hawaii Safe Travel 'You may skip quarantine' screen?
+ICS 314: Software Engineering is a required course for Computer Science majors at the University of Hawaii at Manoa. The latter part of the course is analogous to taking an engine apart to learn how to make it. 
 
 
  
