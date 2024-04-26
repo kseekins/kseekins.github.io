@@ -36,7 +36,7 @@ Some deisgn patterns may present themselves as obvious ingredients of the soluti
 
 ## Fuller Pciture 
 
-These two are a start, but not the full answer to this problem. Could a newbie programmer like myself get closer to a solution by using design patterns? 
+These give us a game plan to execute a required task. We could embed a filed to submit a price tag, with information on where and how much. That price tag is added to the collection of price tag. To display all the price tags, we publish the list, and an iterator displays desired fields of "price" and "location". 
 
 ## AI Use in this Piece
 
