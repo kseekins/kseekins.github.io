@@ -34,6 +34,10 @@ Without design patterns, my first instict would be to find a code that acomplish
 
 Some deisgn patterns may present themselves as obvious ingredients of the solution. First are the behvior patterns of observer and iterator. Everytime an entry for the price and location of an ingredient is inputted, we need that and all previous entries to be visible to the users. Observer is the concept of subscription- where an update listed is always published. The iterator concept would then comb through the updated list, and display relevant information. 
 
+## Fuller Pciture 
+
+These two are a start, but not the full answer to this problem. Could a newbie programmer like myself get closer to a solution by using design patterns? 
+
 ## AI Use in this Piece
 
 ChatGPT was only used to check spelling and grammar. 
