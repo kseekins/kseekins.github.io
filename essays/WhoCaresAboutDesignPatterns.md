@@ -10,7 +10,7 @@ labels:
   - Design Patterns
   - Pedagogy
 ---
-<img width="700px" height ="300px" class="rounded float-start pe-4" src="./Fake-bananarepublic.jpg">
+<img width="700px" height ="300px" class="rounded float-start pe-4" src="./designpatterns.jpg">
 
 
 
