@@ -47,19 +47,19 @@ I have used AI in class this semester in the following areas:
   7. Answering a question in class or in Discord
       I did not attempt to answer any questions I did not know. I did not see any point in using chatGpt to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought the he might be repeating the same error. 
   8. Asking or answering a smart-question
-      
-
+      My biggest takeaway with regards to asking smart questions was to provide a way to recreate the issue. Without that, there is only guesswork for those who are generous enough to help. I did not consult AI as I chose to think my question through so I am clear about what I am asking. 
   9. Coding example e.g. “give an example of using Underscore .pluck”
-
+      I've asked chatGPT to give examples to better understand how Javascript behaves. For instance, I've asked how to add additional properties to an object. This was useful, as my recursive code required an object to store values. 
   10. Explaining code
-
+      In my final project, I had some issues understanding how my teammates wanted to implement a functionality. I found it much easier to talk to them in person for me to understand. This became harder during finals week, when we no longer had face to face meetings. I wanted to find out how their code calculated cost estimation of recipes, but could not see how. I got my answer from my teammate, as chatGPT could not locate how either. This might change if I had used a different AI tool that can scan all the files in ourn repository. 
   11. Writing code
-
+      Writing a code for a web application is largely about translating our vision and ideas into an executable code. ChatGpt has not evoleved yet to a point where it can write the final project for us. This could largely be due to chatGPT being a text based AI tool. There might be other forms of AI that is tailored to design a webpage. I did not invest in finding one, as I thought it would be a form of cheating.
   12. Documenting code
+      Documeting code was relatively simple in this course, and I did not see the need for any AI help. However chatGpt was more diligent in code documentation, serving as a reminder for us humans to do the same. 
+  13. Quality assurance
+    This was where chatGpt contributed the most. I would type "Why is this not working?" and paste my code. My impression is that more than half of the time, chatGPT came up with a solution. This was a huge time saver for me. 
 
-  13. Quality assurance 
-
-  14. Other uses in ICS 314 not listed above
+  15. Other uses in ICS 314 not listed above
 
 
 ### III. Impact on Learning and Understanding:
