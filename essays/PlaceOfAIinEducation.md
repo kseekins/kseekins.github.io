@@ -48,7 +48,7 @@ I have used AI in class this semester in the following areas:
       I did not attempt to answer any questions I did not know. I did not see any point in using chatGpt to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought the he might be repeating the same error. 
   8. Asking or answering a smart-question
       My biggest takeaway with regards to asking smart questions was to provide a way to recreate the issue. Without that, there is only guesswork for those who are generous enough to help. I did not consult AI as I chose to think my question through so I am clear about what I am asking. 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example 
       I've asked chatGPT to give examples to better understand how Javascript behaves. For instance, I've asked how to add additional properties to an object. This was useful, as my recursive code required an object to store values. 
   10. Explaining code
       In my final project, I had some issues understanding how my teammates wanted to implement a functionality. I found it much easier to talk to them in person for me to understand. This became harder during finals week, when we no longer had face to face meetings. I wanted to find out how their code calculated cost estimation of recipes, but could not see how. I got my answer from my teammate, as chatGPT could not locate how either. This might change if I had used a different AI tool that can scan all the files in ourn repository. 
@@ -59,8 +59,8 @@ I have used AI in class this semester in the following areas:
   13. Quality assurance
     This was where chatGpt contributed the most. I would type "Why is this not working?" and paste my code. My impression is that more than half of the time, chatGPT came up with a solution. This was a huge time saver for me. 
 
-  15. Other uses in ICS 314 not listed above
-
+  14. Other uses in ICS 314 not listed above
+      
 
 ### III. Impact on Learning and Understanding:
 
