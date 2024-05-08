@@ -44,21 +44,22 @@ I have used AI in class this semester in the following areas:
      I've had a couple of roadblocks in coding for Toaster-Eats, a web application for health and budget minded students. One of them involved creating an additional role for vendors. I opted to watch my instructor's video in  this topic, and wrote codes in two files to create the role. It did not work, and asking chatGpt was a dead end in this case. I looked for meteor documentation on  roles, but still could not diagnose the problem. It had turned out that I needed to code in one additional file. 
   6. Learning a concept / tutorial
       Learning to code invovled more doing, and less attempts to conceptually understand what is coded. I would often have brod strokes ideas on what I'm coding. For ICS 314, the concepts we had to learn- such as how git works and how mongo is used- were explained well enough by our instructors. Therefore, I did not seek AI help. 
-  8. Answering a question in class or in Discord
+  7. Answering a question in class or in Discord
+      I did not attempt to answer any questions I did not know. I did not see any point in using chatGpt to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought the he might be repeating the same error. 
+  8. Asking or answering a smart-question
+      
 
-  9. Asking or answering a smart-question
+  9. Coding example e.g. “give an example of using Underscore .pluck”
 
-  10. Coding example e.g. “give an example of using Underscore .pluck”
+  10. Explaining code
 
-  11. Explaining code
+  11. Writing code
 
-  12. Writing code
+  12. Documenting code
 
-  13. Documenting code
+  13. Quality assurance 
 
-  14. Quality assurance 
-
-  15. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above
 
 
 ### III. Impact on Learning and Understanding:
@@ -79,6 +80,6 @@ I have used AI in class this semester in the following areas:
 ### VIII. Conclusion:
 
 
-## AI Use in this Piece
+### AI Use in this Piece
 
 ChatGPT was only used to check spelling and grammar. 
