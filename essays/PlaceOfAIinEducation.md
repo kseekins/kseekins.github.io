@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Who Cares about Design Patterns?"
+title: "A Place of AI in Education"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-05-078
 published: true
 labels:
   - Software Development
-  - Design Patterns
+  - Artificial Intelligence
+  - ChatGPT
   - Pedagogy
 ---
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="./designpatterns.jpg">
