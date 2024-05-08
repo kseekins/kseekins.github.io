@@ -34,6 +34,11 @@ This spring I took a course called Information and Computer Sciences 314: Softwa
 
 Without design patterns, my first instict would be to find a code that acomplishes a similar task. I would then modify it. This is arguably not an original work of code. For a newbie programmer to advance in programming, he might need to solve this problem from the ground up. I'll attempt to solve this problem by proposing which patterns to consider in solving this problem. 
 
+2. In class Pratice WODs
+
+3. In class WODs
+    In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieveing objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
+
 ## The obvious ones
 
 Some deisgn patterns may present themselves as obvious ingredients of the solution. First are the behvior patterns of observer and iterator. Everytime an entry for the price and location of an ingredient is inputted, we need that and all previous entries to be visible to the users. Observer is the concept of subscription- where an update listed is always published. The iterator concept would then comb through the updated list, and display relevant information. 
