@@ -95,10 +95,12 @@ I have used AI in class this semester in the following areas:
   
 ### V. Challenges and Opportunities:
 
+   A potential drawback with AI tools is the decrease of in person socialization with peers. If I could quickly get an answer for a minor question, there is less motivation for me to reach out. I've only made one friend from the 7 Computer Sciences courses I've taken. The class we met was pre-ChatGPT; He and I would meet to discuss where we were stuck. In this class, when I encountered a problem, I could ask ChatGPT for ideas. That was a blessing and a curse. I realized this quite recently, when I asked ChatGPT what kind of a person does it think I am.
   
 
 ### VI. Comparative Analysis:
 
+   In the beginning of this course, I used AI much less. As the course progressed my ChatGPT usage increased. I considered paying for the 4.0 version, but decided against it. This was in part because I felt I've felt delegated too much to ChatGPT, especially with quality assurance. I feel the coding intensive nature of this course mitigated that concern. I am confident that I can write a basic web application, if I had a template. 
 
 ### VII. Future Considerations:
 
@@ -106,6 +108,7 @@ I have used AI in class this semester in the following areas:
 
 ### VIII. Conclusion:
 
+  Sakamoto Ryoma could be the most celebrated historical figure in Japan. He is admired for facilitating Japan's transition from feudal times to modern government. It was uncharted territory for Japan. I think of him when it comes to AI, as we know little of how AI could change not just coding but all forms of labor. One of my reasons for studying computer science is to know what changes could come from AI. If this course serves as any indicator, it's an optimistic picture of increased productivity. Our labor is still esssential and humans are not obsolete. But is it really so?  
 
 ### AI Use in this Piece
 
