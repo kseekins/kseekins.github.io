@@ -37,15 +37,16 @@ I have used AI in class this semester in the following areas:
    
     In-class Practice WODs were ungraded coding assignements. It served as a mock exam for the weekly WOD. For that reason I did not use AI. I wanted to see where and how I would stumble, so I could better prepare for the WOD.
    
-4. In-class WODs
+3. In-class WODs
    
     In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieveing objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
 
-  6. Essays
+4. Essays
      
     ChatGpt was used to check my spelling and rephrase sentences. Clearly, I could not ask chatGpt to reflect on my experiences. I was mindful in minimizing chatGpt even for editing purposes. It's tone is rational and balanced, but lacks any character in my experience.
 
-  7. Final project
+5. Final project
+   
      I've had a couple of roadblocks in coding for Toaster-Eats, a web application for health and budget minded students. One of them involved creating an additional role for vendors. I opted to watch my instructor's video in  this topic, and wrote codes in two files to create the role. It did not work, and asking chatGpt was a dead end in this case. I looked for meteor documentation on  roles, but still could not diagnose the problem. It had turned out that I needed to code in one additional file. 
   8. Learning a concept / tutorial
       Learning to code invovled more doing, and less attempts to conceptually understand what is coded. I would often have brod strokes ideas on what I'm coding. For ICS 314, the concepts we had to learn- such as how git works and how mongo is used- were explained well enough by our instructors. Therefore, I did not seek AI help. 
