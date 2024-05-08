@@ -88,10 +88,12 @@ I have used AI in class this semester in the following areas:
 
 ### III. Impact on Learning and Understanding:
 
+  AI can offer substantial help in toubleshooting code, pointing out small details that students can miss. It can increase efficiency by provinding an easy way to find answers to a question. This is a double edged sword, as students can get overreliant on AI tools. AI cannot fix all software issues. Overconfidence in AI might steer a student away from a solution. In my experince I had to remind myself to give myself some credit, so I'd feel more empowered to diagnose a problem. 
 
 ### IV. Practical Applications:
 
-
+  AI has potential to increase the availability of medical care. Professor Peter Washington's Ph.D. thesis examined the application of machine learning in crowdsourcing Autism diagnosis. How do we collect quality data and provide reliable indicator of Autism? My plan is to learn more about Machine Learning in the next school year. I'm excited to learn how machine learning can affect delivery of healthcare and breakthroughs in therapies. 
+  
 ### V. Challenges and Opportunities:
 
 
