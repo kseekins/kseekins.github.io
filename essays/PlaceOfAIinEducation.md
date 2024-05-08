@@ -24,11 +24,12 @@ My intial exposure to AI took place last year, when I consulted chatGPT for my P
 This spring I took a course called Information and Computer Sciences 314: Software Engineering, at the University of Hawaii at Manoa. This course emphasizes hands on coding experience, culminating in a group project to develop a web application. ChatGPT has played a major role for me in this course, proving to be a reliable source of help. 
 
 
-## What is a Problem?
+## II. My Experience with AI
 
-All problems are not necessarily interesting. For example, I am currently writing a app that shows the price of an food ingredient in the local area. I want all users to be able to update the prices they see in any given store. The challenge and art of programming is how to translate what I would tell a human intern "I want you to take  all information about prices of a tomato, and the store it was foound. Show this list of everytime when someone asks about tomatoes. Now do the same for all ingredients please." 
+1. Experience WODs
+   We were given on average of 3 take home WODs. Short for Workout Of the Day, we were to time how long it took to code certain tasks. I did not anticipate any need for AI, as my instructors provided us videos on the solutions. On one of the WODs, however, I could not make a functionality work. I froze the video multiple times to check where I have deviated. After a couple days I thought to ask chatGPT, which found the curly brackets I was missing: 
 
-
+<img width="700px" height ="300px" class="rounded float-start pe-4" src="AITeacher.jpeg">
 ## I have no clue...would design patterns give me any?
 
 Without design patterns, my first instict would be to find a code that acomplishes a similar task. I would then modify it. This is arguably not an original work of code. For a newbie programmer to advance in programming, he might need to solve this problem from the ground up. I'll attempt to solve this problem by proposing which patterns to consider in solving this problem. 
