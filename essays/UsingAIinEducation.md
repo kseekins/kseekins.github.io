@@ -110,6 +110,6 @@ I have used AI in class this semester in the following areas:
 
   Sakamoto Ryoma is often hailed as one of Japan's most celebrated historical figures, revered for his pivotal role in facilitating Japan's transition from feudalism to modern governance. His efforts marked uncharted territory for Japan, symbolizing a significant era of transformation. I see parallels between Ryoma's endeavors and the realm of artificial intelligence (AI), as we currently possess  very limited insight into the potential scope of AI's impact. Will we need coders? Or any human labor? A driving force behind my pursuit of computer science lies in unraveling the implications of AI-driven changes. The trajectory of this course hints at an optimistic future characterized by heightened productivity. However, it prompts me to question: despite the continued importance of human labor, are we truly indispensable? Do my professors share this perspective? How can we make a reasonable forecast? 
 
-### AI Use in this Piece
+## AI Use in this Piece
 
 ChatGPT was only used to check spelling and grammar. 
