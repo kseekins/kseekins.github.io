@@ -11,10 +11,10 @@ labels:
   - ChatGPT
   - Pedagogy
 ---
-<img width="1200px" height ="400px" class="rounded float-start pe-4" src="AITeacher.jpeg">
+<img width="700px" height ="300px" class="rounded float-start pe-4" src="AITeacher.jpeg">
 
 
-
+<Br>
 
 
 ### I. Introduction 
@@ -30,8 +30,9 @@ I have used AI in class this semester in the following areas:
    
    We were given on average of 3 take home WODs. Short for Workout Of the Day, we were to time how long it took to code certain tasks. I did not anticipate any need for AI, as my instructors provided us videos on the solutions. On one of the WODs, however, I could not make a functionality work. I froze the video multiple times to check where I have deviated. After a couple days I thought to ask chatGPT, which immediately found the (lack of) curly brackets needed. 
 
+<Br>
 <img width="1000px" height ="500px" class="rounded float-start pe-4" src="ChatGptHelp1.jpg">
-
+<Br>
 2. In-class Practice WODs
    
     In-class Practice WODs were ungraded coding assignements. It served as a mock exam for the weekly WOD. For that reason I did not use AI. I wanted to see where and how I would stumble, so I could better prepare for the WOD.
