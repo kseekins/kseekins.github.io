@@ -82,6 +82,8 @@ I have used AI in class this semester in the following areas:
     This was where chatGpt contributed the most. I would type "Why is this not working?" and paste my code. My impression is that more than half of the time, chatGPT came up with a solution. This was a huge time saver for me. 
 
 14. Other uses in ICS 314 not listed above
+
+    I had number of Run failure on githhub, and asked chatGPT on how to resolve it based on the error message. Based on the error message, I assumed it was an error in the yml file, and chatGPT seemed to back me up. My instructor and teammates correctly pointed out that the new page I had added had created a testing error. It was a potent reminder to rely on myself, not AI. 
       
 
 ### III. Impact on Learning and Understanding:
