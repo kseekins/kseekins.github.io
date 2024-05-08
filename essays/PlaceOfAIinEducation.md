@@ -95,7 +95,7 @@ I have used AI in class this semester in the following areas:
   
 ### V. Challenges and Opportunities:
 
-   A potential drawback with AI tools is the decrease of in person socialization with peers. If I could quickly get an answer for a minor question, there is less motivation for me to reach out. I've only made one friend from the 7 Computer Sciences courses I've taken. The class we met was pre-ChatGPT; He and I would meet to discuss where we were stuck. In this class, when I encountered a problem, I could ask ChatGPT for ideas. That was a blessing and a curse. I realized this quite recently, when I asked ChatGPT what kind of a person does it think I am.
+   A potential drawback with AI tools is the decrease of in person socialization with peers. If I could quickly get an answer for a minor question, there is less motivation for me to reach out. I've only made one friend from the 7 Computer Sciences courses I've taken. The class we met was pre-ChatGPT; He and I would meet to discuss where we were stuck. In this class, when I encountered a problem, I could ask ChatGPT for ideas. That was a blessing and a curse. I realized this quite recently, when I asked ChatGPT what kind of a person does it think I am. It gave a perfectly reasonable answer, but the correct answer was: I need to get out more. 
   
 
 ### VI. Comparative Analysis:
