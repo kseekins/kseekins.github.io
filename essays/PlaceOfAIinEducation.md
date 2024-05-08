@@ -17,9 +17,11 @@ labels:
 
 
 
-## Pedagogy of Software Development
+## I. Introduction 
  
-ICS 314: Software Engineering is a required course for Computer Science majors at the University of Hawaii at Manoa. The latter part of the course is analogous to taking an engine apart to learn how to make it. We saw videos of instructor writing the program by modifying  pre-existing codes. We repeated what we saw, modifying a pre-existing code exactly the same, from our memory. This method exploits the fact that "homan beings are pattern-forming machines", a quote by my first computer science professor. With so much remembering by doing, we could, potentially, find patterns and principles behind how a problem is solved. That's probably what happened to the gang of 4 software developers who wrote "Design Patterns: Elements of Reusable Object-Oriented Software”. This became a canonical text outlining the common patterns in solving a coding problem.
+My intial exposure to AI took place last year, when I consulted chatGPT for my Physics homeowork problems. I was intially impressed as chatGPT explained step by step on how it calculated the magnetic filed change of a rotating motor. However, I was quickly dismayed when I realized all of its answers were incorrect. Furthermore, when I asked the questions again, it gave different answers. I was unimpressed, but fascinated on how it came to its wrong answers. 
+
+This spring I took a course called Information and Computer Sciences 314: Software Engineering, at the University of Hawaii at Manoa. This course emphasizes hands on coding experience, culminating in a group project to develop a web application. ChatGPT has played a major role for me in this course, proving to be a reliable source of help. 
 
 
 ## What is a Problem?
