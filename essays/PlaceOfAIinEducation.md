@@ -42,7 +42,7 @@ I have used AI in class this semester in the following areas:
 
 4. Essays
      
-    ChatGPT was used to check my spelling and rephrase sentences. Clearly, I could not ask ChatGPT to reflect on my experiences. I was mindful in minimizing chatGpt even for editing purposes. Its tone is rational and balanced, but lacks any character in my experience.
+    ChatGPT was used to check my spelling and rephrase sentences. Clearly, I could not ask ChatGPT to reflect on my experiences. I was mindful in minimizing chatGpt even for editing purposes. Its tone is rational and balanced, but lacks any character in my experience. Out of curiosity, I would ask the AI to write an assigned essay. I would then compare it with mine. I feel AI has the most to catch up in this regard. I have not seen any essays from AI with a unique point of view. 
 
 5. Final project
    
