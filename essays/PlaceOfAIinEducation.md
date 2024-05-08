@@ -54,7 +54,7 @@ I have used AI in class this semester in the following areas:
    
 7. Answering a question in class or in Discord
    
-      I did not attempt to answer any questions I did not know. I did not see any point in using ChatGPT to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought he might be repeating the same error.
+      I did not attempt to answer any questions I did not know. I did not see any point in using ChatGPT to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought he might be repeating the same error. This was just a guess, as his repository was not availbale. This leads to my next point.
    
 8. Asking or answering a smart-question
    
