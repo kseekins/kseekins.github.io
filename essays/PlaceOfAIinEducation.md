@@ -91,7 +91,7 @@ I have used AI in class this semester in the following areas:
 
 ### IV. Practical Applications:
 
-  AI has potential to increase the availability of medical care. Professor Peter Washington's Ph.D. thesis examined the application of machine learning in crowdsourcing Autism diagnosis. How do we collect quality data and provide reliable indicator of Autism?  My plan is to learn more about Machine Learning in the next school year. I'm excited to learn how machine learning can help with delivery of healthcare and finding breakthroughs in therapies. 
+  AI has potential to increase the quality and availability of medical care. Professor Peter Washington's Ph.D. thesis examined the application of machine learning in crowdsourcing Autism diagnosis. Like a chef is at the mercy of her ingredients, so is machine learning to the dataset it's given. It shows how AI technology does not exist in a vacuum.  My plan is to learn more about Machine Learning in the next school year. I'm excited to learn how machine learning can help with delivery of healthcare and finding breakthroughs in therapies. 
   
 ### V. Challenges and Opportunities:
 
