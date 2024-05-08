@@ -108,7 +108,7 @@ I have used AI in class this semester in the following areas:
 
 ### VIII. Conclusion:
 
-  Sakamoto Ryoma could be the most celebrated historical figure in Japan. He is admired for facilitating Japan's transition from feudal times to modern government. It was uncharted territory for Japan. I think of him when it comes to AI, as we know little of how AI could change not just coding but all forms of labor. One of my reasons for studying computer science is to know what changes could come from AI. If this course serves as any indicator, it's an optimistic picture of increased productivity. Our labor is still esssential and humans are not obsolete. But is it really so?  
+  Sakamoto Ryoma could be the most celebrated historical figure in Japan. He is admired for facilitating Japan's transition from feudal times to modern government. It was uncharted territory for Japan. I think of him when it comes to AI, as we know little of how AI could change not just coding but all forms of labor. One of my reasons for studying computer science is to know what changes could come from AI. If this course serves as any indicator, it's an optimistic future of increased productivity. Our labor is still esssential, and humans are not obsolete. But is it really so?  Do my professors think so? 
 
 ### AI Use in this Piece
 
