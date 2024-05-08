@@ -19,10 +19,9 @@ labels:
 
 ### I. Introduction 
  
-My intial exposure to AI took place last year, when I consulted chatGPT for my Physics homeowork problems. I was intially impressed as chatGPT explained step by step on how it calculated the magnetic filed change of a rotating motor. However, I was quickly dismayed when I realized all of its answers were incorrect. Furthermore, when I asked the questions again, it gave different answers. I was unimpressed, but fascinated on how it came to its wrong answers. 
+My initial exposure to AI occurred last year when I consulted ChatGPT for my Physics homework problems. Initially, I was impressed as ChatGPT explained step by step how it calculated the magnetic field change of a rotating motor. However, I was quickly dismayed when I realized all of its answers were incorrect. Furthermore, when I asked the questions again, it gave different answers. I was unimpressed but fascinated by how it arrived at its wrong answers.
 
-This spring I took a course called Information and Computer Sciences 314: Software Engineering, at the University of Hawaii at Manoa. This course emphasizes hands on coding experience, culminating in a group project to develop a web application. ChatGPT has played a major role for me in this course, proving to be a reliable source of help. 
-
+This spring, I took a course called Information and Computer Sciences 314: Software Engineering at the University of Hawaii at Manoa. This course emphasizes hands-on coding experience, culminating in a group project to develop a web application. ChatGPT has played a major role for me in this course, proving to be a reliable source of help.
 
 ### II. Personal Expreience with AI 
 I have used AI in class this semester in the following areas:
