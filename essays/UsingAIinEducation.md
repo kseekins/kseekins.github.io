@@ -33,6 +33,7 @@ I have used AI in class this semester in the following areas:
 <Br>
 <img width="1000px" height ="500px" class="rounded float-start pe-4" src="ChatGptHelp1.jpg">
 <Br>
+
 2. In-class Practice WODs
    
     In-class Practice WODs were ungraded coding assignements. It served as a mock exam for the weekly WOD. For that reason I did not use AI. I wanted to see where and how I would stumble, so I could better prepare for the WOD.
