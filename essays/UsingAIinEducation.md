@@ -11,7 +11,7 @@ labels:
   - ChatGPT
   - Pedagogy
 ---
-<img width="1000px" height ="400px" class="rounded float-start pe-4" src="AITeacher.jpeg">
+<img width="1200px" height ="400px" class="rounded float-start pe-4" src="AITeacher.jpeg">
 
 
 
