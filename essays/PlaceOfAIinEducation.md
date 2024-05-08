@@ -28,7 +28,7 @@ This spring I took a course called Information and Computer Sciences 314: Softwa
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
-   We were given on average of 3 take home WODs. Short for Workout Of the Day, we were to time how long it took to code certain tasks. I did not anticipate any need for AI, as my instructors provided us videos on the solutions. On one of the WODs, however, I could not make a functionality work. I froze the video multiple times to check where I have deviated. After a couple days I thought to ask chatGPT, which found the curly brackets I was missing: 
+   We were given on average of 3 take home WODs. Short for Workout Of the Day, we were to time how long it took to code certain tasks. I did not anticipate any need for AI, as my instructors provided us videos on the solutions. On one of the WODs, however, I could not make a functionality work. I froze the video multiple times to check where I have deviated. After a couple days I thought to ask chatGPT, which immediately found the (lack of) curly brackets needed. 
 
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="ChatGptHelp1.jpg">
 
