@@ -29,7 +29,7 @@ This spring I took a course called Information and Computer Sciences 314: Softwa
 1. Experience WODs
    We were given on average of 3 take home WODs. Short for Workout Of the Day, we were to time how long it took to code certain tasks. I did not anticipate any need for AI, as my instructors provided us videos on the solutions. On one of the WODs, however, I could not make a functionality work. I froze the video multiple times to check where I have deviated. After a couple days I thought to ask chatGPT, which found the curly brackets I was missing: 
 
-<img width="700px" height ="300px" class="rounded float-start pe-4" src="ChatGptHelp1.jpeg">
+<img width="700px" height ="300px" class="rounded float-start pe-4" src="ChatGptHelp1.jpg">
 ## I have no clue...would design patterns give me any?
 
 Without design patterns, my first instict would be to find a code that acomplishes a similar task. I would then modify it. This is arguably not an original work of code. For a newbie programmer to advance in programming, he might need to solve this problem from the ground up. I'll attempt to solve this problem by proposing which patterns to consider in solving this problem. 
