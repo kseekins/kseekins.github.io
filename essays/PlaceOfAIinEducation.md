@@ -38,23 +38,23 @@ I have used AI in class this semester in the following areas:
    
 3. In-class WODs
    
-    In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieveing objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
+    In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieving objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
 
 4. Essays
      
-    ChatGpt was used to check my spelling and rephrase sentences. Clearly, I could not ask chatGpt to reflect on my experiences. I was mindful in minimizing chatGpt even for editing purposes. It's tone is rational and balanced, but lacks any character in my experience.
+    ChatGPT was used to check my spelling and rephrase sentences. Clearly, I could not ask ChatGPT to reflect on my experiences. I was mindful in minimizing chatGpt even for editing purposes. Its tone is rational and balanced, but lacks any character in my experience.
 
 5. Final project
    
-     I've had a couple of roadblocks in coding for Toaster-Eats, a web application for health and budget minded students. One of them involved creating an additional role for vendors. I opted to watch my instructor's video in  this topic, and wrote codes in two files to create the role. It did not work, and asking chatGpt was a dead end in this case. I looked for meteor documentation on  roles, but still could not diagnose the problem. It had turned out that I needed to code in one additional file.
+     I've had a couple of roadblocks in coding for Toaster-Eats, a web application for health and budget minded students. One of them involved creating an additional role for vendors. I opted to watch my instructor's video on  this topic, and wrote codes in two files to create the role. It did not work, and asking ChatGpt was a dead end in this case. I looked for Meteor documentation on  roles, but still could not diagnose the problem. It turned out that I needed to code in one additional file.
    
 6. Learning a concept / tutorial
    
-      Learning to code invovled more doing, and less attempts to conceptually understand what is coded. I would often have brod strokes ideas on what I'm coding. For ICS 314, the concepts we had to learn- such as how git works and how mongo is used- were explained well enough by our instructors. Therefore, I did not seek AI help.
+      Learning to code involved more doing, and fewer attempts to conceptually understand what is coded. I would often have broad strokes ideas on what I'm coding. For ICS 314, the concepts we had to learn - such as how Git works and how MongoDB is used - were explained well enough by our instructors. Therefore, I did not seek AI help.
    
 7. Answering a question in class or in Discord
    
-      I did not attempt to answer any questions I did not know. I did not see any point in using chatGpt to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought the he might be repeating the same error.
+      I did not attempt to answer any questions I did not know. I did not see any point in using ChatGPT to answer a question, as they could do that themselves. I've pointed someone to a potential issue for the tic-tac-toe extra credit project. I had coded that before and thought he might be repeating the same error.
    
 8. Asking or answering a smart-question
    
@@ -62,27 +62,27 @@ I have used AI in class this semester in the following areas:
    
 9. Coding example
     
-      I've asked chatGPT to give examples to better understand how Javascript behaves. For instance, I've asked how to add additional properties to an object. This was useful, as my recursive code required an object to store values.
+      I've asked ChatGPT to give examples to better understand how JavaScript behaves. For instance, I've asked how to add additional properties to an object. This was useful, as my recursive code required an object to store values.
    
 10. Explaining code
     
-      In my final project, I had some issues understanding how my teammates wanted to implement a functionality. I found it much easier to talk to them in person for me to understand. This became harder during finals week, when we no longer had face to face meetings. I wanted to find out how their code calculated cost estimation of recipes, but could not see how. I got my answer from my teammate, as chatGPT could not locate how either. This might change if I had used a different AI tool that can scan all the files in ourn repository.
+      In my final project, I had some issues understanding how my teammates wanted to implement a functionality. I found it much easier to talk to them in person for me to understand. This became harder during finals week, when we no longer had face to face meetings. I wanted to find out how their code calculated cost estimation of recipes, but could not see how. I got my answer from my teammate, as ChatGPT could not locate how either. This might change if I had used a different AI tool that can scan all the files in our repository.
     
 11. Writing code
     
-      Writing a code for a web application is largely about translating our vision and ideas into an executable code. ChatGpt has not evoleved yet to a point where it can write the final project for us. This could largely be due to chatGPT being a text based AI tool. There might be other forms of AI that is tailored to design a webpage. I did not invest in finding one, as I thought it would be a form of cheating.
+      Writing code for a web application is largely about translating our vision and ideas into an executable code. ChatGpt has not evolved yet to a point where it can write the final project for us. This could largely be due to ChatGPT being a text-based AI tool. There might be other forms of AI that are tailored to design a webpage. I did not invest in finding one, as I thought it would be a form of cheating.
     
 12. Documenting code
     
-      Documeting code was relatively simple in this course, and I did not see the need for any AI help. However chatGpt was more diligent in code documentation, serving as a reminder for us humans to do the same.
+      Documenting code was relatively simple in this course, and I did not see the need for any AI help. However ChatGpt was more diligent in code documentation, serving as a reminder for us humans to do the same.
     
 13. Quality assurance
     
-    This was where chatGpt contributed the most. I would type "Why is this not working?" and paste my code. My impression is that more than half of the time, chatGPT came up with a solution. This was a huge time saver for me. 
+   This was where ChatGPT contributed the most. I would type "Why is this not working?" and paste my code. My impression is that more than half of the time, ChatGPT came up with a solution. This was a huge time saver for me.
 
 14. Other uses in ICS 314 not listed above
 
-    I had number of Run failure on githhub, and asked chatGPT on how to resolve it based on the error message. Based on the error message, I assumed it was an error in the yml file, and chatGPT seemed to back me up. My instructor and teammates correctly pointed out that the new page I had added had created a testing error. It was a potent reminder to rely on myself, not AI. 
+    I had number of run failures on GitHub, and asked ChatGPT on how to resolve it based on the error message. Based on the error message, I assumed it was an error in the YAML file, and ChatGPT seemed to back me up. My instructor and teammates correctly pointed out that the new page I had added had created a testing error. It was a potent reminder to rely on myself, not AI. 
       
 
 ### III. Impact on Learning and Understanding:
