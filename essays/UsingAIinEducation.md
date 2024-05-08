@@ -11,16 +11,16 @@ labels:
   - ChatGPT
   - Pedagogy
 ---
-<p>
+
 <img width="700px" height ="300px" class="rounded float-start pe-4" src="AITeacher.jpeg">
-</p>
+
 
 
 
 
 ### I. Introduction 
  
-My initial exposure to AI occurred last year when I consulted ChatGPT for my Physics homework problems. Initially, I was impressed as ChatGPT explained step by step how it calculated the magnetic field change of a rotating motor. However, I was quickly dismayed when I realized all of its answers were incorrect. Furthermore, when I asked the questions again, it gave different answers. I was unimpressed but fascinated by how it arrived at its wrong answers.
+My initial exposure to AI occurred last year when I consulted ChatGPT for my Physics homework problems. Initially, I was impressed as ChatGPT explained step by step how it calculated the magnetic field change of a rotating motor. However, I was quickly dismayed when I realized all of its answers were incorrect. Furthermore, when I asked the questions again, it gave different answers. I was unimpressed.
 
 This spring, I took a course called Information and Computer Sciences 314: Software Engineering at the University of Hawaii at Manoa. This course emphasizes hands-on coding experience, culminating in a group project to develop a web application. ChatGPT has played a major role for me in this course, proving to be a reliable source of help.
 
