@@ -38,7 +38,7 @@ I have used AI in class this semester in the following areas:
    
 3. In-class WODs
    
-    In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieving objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
+    In-class WODs were the most exciting, challenging and occasionally devastating part of this class. 100 points were awarded in a binary fashion: 100 for achieving objectives on time, and 0 for anything else. I struggle doing anyhting- both academic and personal- tasks with speed. ChatGPT was accessible during WODs, and I would ask concise questions- for instance, on how to change a font of website I was building. I've never thought to ask it to write the whole code. 
 
 4. Essays
      
