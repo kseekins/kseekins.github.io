@@ -95,12 +95,14 @@ I have used AI in class this semester in the following areas:
   
 ### V. Challenges and Opportunities:
 
+  
 
 ### VI. Comparative Analysis:
 
 
 ### VII. Future Considerations:
 
+  In our final class meeting, we debated a hypthetical situation in which an relatively junior programmer is promoted instead of a more experienced and well rounded programmer. In this scenario, he was promoted for his AI skills. I believe this can be a reality, even within 2024. I think ICS 314 could incorporate other AI tools, including Github pilot. Programmers might need to learn how to exploit AI to scale their productivity. 
 
 ### VIII. Conclusion:
 
