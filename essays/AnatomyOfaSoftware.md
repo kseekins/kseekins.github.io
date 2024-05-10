@@ -24,8 +24,6 @@ This week, I wrote a website in my software engineering class. We were to choose
 
  
 
-<img width="200px"  class="rounded float-start pe-4" src="./IMG_2709.jpg">
-
 
 ## What is Real?
 
