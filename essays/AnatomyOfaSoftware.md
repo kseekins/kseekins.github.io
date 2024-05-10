@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering  
   - Configuration Management
-  - Application Desgin
+  - Functional Programming 
     
 ---
 <img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
@@ -19,17 +19,15 @@ labels:
 
 ## What I had Imagined 
 
-This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it notes stuck on a board. Prior to learning Software engineering, I would have imagined a single file of codes behind this page. 
+This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it notes stuck on a board. Prior to learning Software engineering, I would have imagined a single page of codes behind this page. 
 
 
 <img width="700px" height ="400px" class="rounded float-start pe-4" src="./ListShops.jpg">
 
- 
 
+## So Many Directories and Subdirectories 
 
-## What is Real?
-
-Having firsthand experience with a UI framework teaches us about professional-looking websites. That image of the Hawaii Travel Website is as reliable as a hand-scribbled note saying, "Heather is Covid Negative. She's clear to skip Quarantine. Thanks, Dr. Jones." Anyone can produce either. Before learning UI frameworks, I knew "theoretically" that anyone could write a nice webpage. But on an emotional level, I still trusted clean, sleek-looking websites. I would screenshot confirmation pages for records. I advised people to do the same before. Now I am not so sure.
+My assumption was correct to an extent- ListShops.jsx, shown just below the webpage does code for the page. However this file alone is not enough. 
 
 ## I Feel Old
 
