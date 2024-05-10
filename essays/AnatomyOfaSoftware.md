@@ -17,10 +17,12 @@ labels:
 
 
 
-## Not Bad for 2 Weeks of HTML Design and UI Framework 
+## What I had Imagined 
 
-This week, I wrote a website in my software engineering class. We were to choose an actual website to emulate. In the process, I took creative liberties. The fruit of my labor is on the left: a corporate-passing website with ridiculous statements (and pictures). Then it hit me: it's so easy to fake anything online. I remember working at the Moana Surfrider front desk during COVID. To avoid quarantine, guests checking in needed to present a screenshot of the Hawaii Safe Travels website. But if I could make that cat-wearing-banana republic website look decent, couldn't anyone have replicated the Hawaii Safe Travel 'You may skip quarantine' screen?
+This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it notes stuck on a board. Prior to learning Software engineering, I would have imagined a single file of codes behind this page. 
 
+
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
 
  
 
