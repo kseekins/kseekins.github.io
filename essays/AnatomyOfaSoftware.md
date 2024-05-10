@@ -11,7 +11,7 @@ labels:
   - Application Desgin
     
 ---
-<img width="700px" height ="300px" class="rounded float-start pe-4" src="./mywebsite.jpg">
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
 
 
 
