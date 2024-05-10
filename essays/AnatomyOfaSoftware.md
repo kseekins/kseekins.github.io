@@ -22,7 +22,7 @@ labels:
 This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it notes stuck on a board. Prior to learning Software engineering, I would have imagined a single file of codes behind this page. 
 
 
-<img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./ListShops.jpg">
 
  
 
