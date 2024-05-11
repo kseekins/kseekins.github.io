@@ -31,7 +31,7 @@ Resolving an issue was a wildcard when it came to effort estimation. In the begi
 
 ## Tracking
 
-At the start of thie estimation project, I downloaded Toggl. However I could not make it work. Back then I was facing a number of issues running all of my code in my laptop. I did not want a potential complication so decided to use my personal journal that I carry with me all the time. Transcribing them to the Project Dashboard on Github was not a problem. I do not think this compromised the accuracy of the data. 
+At the start of thie estimation project, I downloaded Toggl. However I could not make it work. Back then I was facing a number of issues running all of my code in my laptop. I did not want a potential complication so decided to use my personal journal that I carry with me all the time. Transcribing them to the Project Dashboard on Github was not a problem. I do not think this compromised the accuracy of the data. I look forward to applying this practice in the next semester, even for non-computer sciences courses. Most classes involve more of "abosorbing" information- including reading textbooks and reviewing lecture notes. How to apply the concept of issue-based project management in them will be the question going forward. 
 
 ## AI Use In this Essay
 
