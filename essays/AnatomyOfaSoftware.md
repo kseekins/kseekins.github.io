@@ -31,7 +31,10 @@ My assumption was correct to an extent- ListShops.jsx, shown just below the webp
 
 ## Translating Real world into Code 
 
-In the real world, replicating "Shops Near Campus" is much easier. I would find a large board.  We would write and draw the information of the stores on post-its. 
+In the real world, replicating "Shops Near Campus" is much easier. I would find a large board.  We would write and draw the information of the stores on post-its. However,there is a significant feature the code version affords; when any user adds a shop, this change is reflected to all users viewing this page. 
+  ```
+  const subscription = Meteor.subscribe(Shops.userPublications);
+  ```
 
 ## AI Use In this Essay
 
