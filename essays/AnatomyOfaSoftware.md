@@ -27,11 +27,11 @@ This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it not
 
 ## So Many Directories and Subdirectories 
 
-My assumption was correct to an extent- ListShops.jsx, shown just below the webpage does code for the page. However this file alone is not enough. 
+My assumption was correct to an extent- ListShops.jsx, shown just below the webpage does code for the page. However this file alone is not enough. To the left, we see a list of directories, subdirectories and files. This looked nothing but overwhelming for most of my semester. After 10 weeks in of staring at them, I've started to appreciate them. The organization made sense, and started to help my coding process. 
 
-## I Feel Old
+## Translating Real world into Code 
 
-I'm a 38-year-old returning college student. When I first went to college in 2004, I did not have a cellphone. I handwrote my college applications, then mailed them via FedEx. Over the years, I was impressed by how everything—job applications, school applications, taxes—shifted online. Learning a UI framework feels like another leap of technology to me. More technology will be easily available in the next decade. Perhaps I can make a movie of me doing a backflip. And if I can post myself doing it online, why bother to learn it in real life? Or would we evolve to distrust anything we see online?
+In the real world, replicating "Shops Near Campus" is much easier. I would find a large board.  We would write and draw the information of the stores on post-its. 
 
 ## AI Use In this Essay
 
