@@ -35,7 +35,7 @@ In the real world, replicating "Shops Near Campus" is much easier. I would find 
   ```
   const subscription = Meteor.subscribe(Shops.userPublications);
   ```
-Like a 
+I remember years ago when my forst computer science professor quipped, "humans are pattern recognition machines". Coders have recognized patterns of how tasks are achieved or problems solved. Subscription is considered to be an "observer pattern". The local databases subscribe to a publication of up-to-date list of the Shops Collection. 
 ## AI Use In this Essay
 
 ChatGPT was only used to check spelling and grammar. 
