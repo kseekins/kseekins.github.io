@@ -7,8 +7,8 @@ date: 2024-05-09
 published: true
 labels:
   - Software Engineering  
-  - Configuration Management
-  - Functional Programming 
+  - Development Environment
+  - Design Patterns
     
 ---
 <img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
