@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ./toastereats.jpg
+image: img/toastereats.jpg
 title: "Patient Advocay Task Force"
 date: 2024
 published: true
