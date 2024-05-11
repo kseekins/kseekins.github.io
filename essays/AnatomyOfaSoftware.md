@@ -36,6 +36,9 @@ In the real world, replicating "Shops Near Campus" is much easier. I would find 
   const subscription = Meteor.subscribe(Shops.userPublications);
   ```
 I remember years ago when my forst computer science professor quipped, "humans are pattern recognition machines". Coders have recognized patterns of how tasks are achieved or problems solved. Subscription is considered to be an "observer pattern". The local databases subscribe to a publication of up-to-date list of the Shops Collection. 
+
+Shops collection holds all the information- the image link, location, shop name, and so on. This holds the information to be written on the Post-it. The format of how the information is presented is set by Shop.js.  We could code all this in the ListShop page. However, this "hard-coding" would make them immutable from the user end. 
+
 ## AI Use In this Essay
 
 ChatGPT was only used to check spelling and grammar. 
