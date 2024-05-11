@@ -27,7 +27,7 @@ This webpage "Shops Near Campus" looks simple enough. It resembles a Post-it not
 
 ## So Many Directories and Subdirectories 
 
-My assumption was correct to an extent- ListShops.jsx, shown just below the webpage does code for the page. However this file alone is not enough. To the left, we see a list of directories, subdirectories and files. This looked nothing but overwhelming for most of my semester. After 10 weeks in of staring at them, I've started to appreciate them. The organization made sense, and started to help my coding process. 
+My assumption was correct to an extent- ListShops.jsx, shown just below the webpage does code for the page. However this file alone is not enough. To the left, we see a list of directories, subdirectories and files. This looked nothing but overwhelming for most of my semester. After 10 weeks of staring at them, I've started to appreciate them. The organization started to make sense. If you are intimidated by coding, this is an example that you should code anyway. 
 
 ## Translating Real world into Code 
 
@@ -35,7 +35,7 @@ In the real world, replicating "Shops Near Campus" is much easier. I would find 
   ```
   const subscription = Meteor.subscribe(Shops.userPublications);
   ```
-
+Like a 
 ## AI Use In this Essay
 
 ChatGPT was only used to check spelling and grammar. 
