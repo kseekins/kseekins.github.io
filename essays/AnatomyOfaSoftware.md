@@ -9,6 +9,8 @@ labels:
   - Software Engineering  
   - Development Environment
   - Design Patterns
+  - Coding Standards
+  - Open Source 
     
 ---
 <img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
@@ -39,6 +41,19 @@ I remember years ago when my forst computer science professor quipped, "humans a
 
 Shops collection holds all the information- the image link, location, shop name, and so on. This holds the information to be written on the Post-it. The format of how the information is presented is set by Shop.js.  We could code all this in the ListShop page. However, this "hard-coding" would make them immutable from the user end. 
 
+## You Never Code Alone
+
+My assumption coming into coding is that it is a solitary endeavor. I've realized that it is the opposite. Coding is a social endeavor, even if I were to write an entire application on my own. So much of what is used, from the UI framework to Meteor specific tools like "subscription" are not written by me. Coders rely on codes written by others. This dependency was demonstrated dramatically in March 23rd of 2023. Node Packge Manager (NPM) started to crash, as in irate Open Source code developer unpublished 11 lines of code that added padding before a word. NPM subsequently imposed a 24 hour limit on unpublishing. 
+
+## Coding Standards
+
+
+
 ## AI Use In this Essay
 
 ChatGPT was only used to check spelling and grammar. 
+
+## Citations
+
+Miller, P "How an irate developer briefly broke JavaScript" May 24, 2016 theverge.com
+https://www.theverge.com/2016/3/24/11300840/how-an-irate-developer-briefly-broke-javascript
