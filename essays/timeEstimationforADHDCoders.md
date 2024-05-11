@@ -29,6 +29,9 @@ What was clear from the data is I had spent more time on non-coding work in the 
 
 Resolving an issue was a wildcard when it came to effort estimation. In the beginning, finding out how to establish a thrid role in the system took a lot more time than expected. This caused time spent on Issue 7 and 25 to go far above expected. However when AddShop page could not add anything new to the shops.collection, I found the solution within 30 minutes. 
 
+## Tracking
+
+At the start of thie estimation project, I downloaded Toggl. However I could not make it work. Back then I was facing a number of issues running all of my code in my laptop. I did not want a potential complication so decided to use my personal journal that I carry with me all the time. Transcribing them to the Project Dashboard on Github was not a problem. I do not think this compromised the accuracy of the data. 
 
 ## AI Use In this Essay
 
