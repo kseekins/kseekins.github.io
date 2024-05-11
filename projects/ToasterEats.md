@@ -17,4 +17,4 @@ summary: "Web Application for University of Hawaii community."
  
 </div>
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at  [at out project website](https://toaster-eats.github.io).
