@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/toastereats.jpg
-title: "Toaste Eats"
+title: "Toaster Eats"
 date: 2024
 published: true
 labels:
