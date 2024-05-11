@@ -2,12 +2,14 @@
 layout: project
 type: project
 image: img/toastereats.jpg
-title: "Patient Advocay Task Force"
+title: "Toaste Eats"
 date: 2024
 published: true
 labels:
-  - homelessness
-summary: "Improving how we connect homeless patients with resources."
+  - Javascript
+  - Web Application
+  - Meteor
+summary: "Web Application for University of Hawaii community."
 ---
 
 <div class="text-center p-4">
