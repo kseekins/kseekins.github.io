@@ -10,7 +10,7 @@ labels:
 summary: "Promoting Safe Work conditions"
 ---
 
-<img width="700px" height ="400px" class="rounded float-start pe-4" src="./HomeProject.jpeg">
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./local5-a.jpeg">
 
 <div class="text-center p-4">
  
