@@ -19,4 +19,10 @@ As a final project for ICS 314: Software Engineering, my team created a web appl
  
 </div>
 
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./toastermain.jpg">
+
+My contributions focused on the vendor side of this website. First, I made the landing pages tailored to different roles of users. I made a section of the website "Shops Near Campus" that lists the grocery stores around campus. I have set up the vendor role, then created an AddShop page so a vendor can add a profile of their shop. This would be then visible to "Shops Near Campus" to all users. 
+
+
+
 You can learn more at  [at out project website](https://toaster-eats.github.io).
