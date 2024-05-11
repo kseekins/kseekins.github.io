@@ -7,7 +7,7 @@ date: 2021
 published: true
 labels:
   - Java
-summary: "Promoting Safe Work conditions"
+summary: "Promoting Safe Work conditions during Covid-19 pandemic."
 ---
 
 <img width="700px" height ="400px" class="rounded float-start pe-4" src="./local5-a.jpeg">
