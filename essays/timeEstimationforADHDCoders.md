@@ -13,7 +13,7 @@ labels:
 ---
 
 
-<img width="150px" height ="400px" class="rounded float-start pe-4" src="./tracking2.jpg">
+<img width="250px" height ="400px" class="rounded float-start pe-4" src="./tracking2.jpg">
 
 
 
