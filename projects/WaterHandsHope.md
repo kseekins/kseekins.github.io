@@ -4,7 +4,7 @@ type: project
 image: img/WHH LOGO.jpeg
 title: "Water Hands Hope"
 date: 2022
-published: true
+published: false
 labels:
   - Papua New Guinea
 summary: ""
