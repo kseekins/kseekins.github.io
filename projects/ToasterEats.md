@@ -12,6 +12,7 @@ labels:
 summary: "Web Application for University of Hawaii community."
 ---
 <img width="600px" height ="350px" class="rounded float-start pe-4" src="./AddingShop02.jpg">
+<br />
 <img width="600px" height ="350px" class="rounded float-start pe-4" src="./ShopsNear.jpg">
 
 <br />
