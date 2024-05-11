@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Web Application
   - Meteor
-summary: "Web Application for University of Hawaii community."
+summary: "Recipe and Shopping Application for University of Hawaii community."
 ---
 
 
