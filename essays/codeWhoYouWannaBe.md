@@ -4,7 +4,7 @@ type: essay
 title: "On the Net, You Can Truly Be Who You Want to Be"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - Web Desgin 
   - UI Frameworks
