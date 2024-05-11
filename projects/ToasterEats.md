@@ -11,6 +11,7 @@ labels:
   - Meteor
 summary: "Web Application for University of Hawaii community."
 ---
+<img width="700px" height ="400px" class="rounded float-start pe-4" src="./mywebsite.jpg">
 
 <div class="text-center p-4">
  
