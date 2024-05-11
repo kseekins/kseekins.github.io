@@ -45,8 +45,9 @@ Shops collection holds all the information- the image link, location, shop name,
 
 My assumption coming into coding is that it is a solitary endeavor. I've realized that it is the opposite. Coding is a social endeavor, even if I were to write an entire application on my own. So much of what is used, from the UI framework to Meteor specific tools like "subscription" are not written by me. Coders rely on codes written by others. This dependency was demonstrated dramatically in March 23rd of 2023. Node Packge Manager (NPM) started to crash, as in irate Open Source code developer unpublished 11 lines of code that added padding before a word. NPM subsequently imposed a 24 hour limit on unpublishing. 
 
-## Coding Standards
+## Working with Others' code
 
+Luckily, most packages we import do not require us to know "how" it works. This may not be the case when working with other coders. If another coder were to add a functionality on adding a new Store profile, he would need to know that Shops.collection stores the information for each Shop. Having a brief comment of what the code accomplishes can save a lot of time for other coders, in turn making you a more valuable coder.
 
 
 ## AI Use In this Essay
