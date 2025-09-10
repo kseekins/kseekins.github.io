@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Time Management for ADHD coders"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-10
+date: 2024-05-11
 published: false
 labels:
   - ADHD
