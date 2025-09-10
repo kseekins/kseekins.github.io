@@ -5,8 +5,8 @@
     "picture": "https://github.com/kseekins.png",
     "email": "kseekins@hawaii.edu",
     "website": "https://kseekins.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. Pre-medical student.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I have earned a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa, in addition to biology and biochemistry coursework. My academic path was also shaped by pre-medical studies, combining computational and life sciences. Raised in Japan and the United States, I am bilingual in Japanese and English, with strong cross-cultural communication skills..",
+    "location": { "address": "", "postalCode": "96822", "city": "Nara City", "countryCode": "Japan", "region": "Nara" },
     "profiles": [
       { "network": "github", "username": "kseekins", "url": "http://github.com/kseekins" },
       { "network": "linkedin", "username": "kenneth-seekins-96b12226", "url": "https://linkedin.com/in/kenneth-seekins-96b12226" }
@@ -33,10 +33,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (graduated summer 2025)",
       "studyType": "B.A.",
       "startDate": "2020-09-01",
-      "endDate": "Present",
+      "endDate": "2025-08-31",
       "courses": [
       ]
     }
