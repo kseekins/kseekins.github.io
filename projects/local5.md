@@ -4,7 +4,7 @@ type: project
 image: img/Local5.png
 title: Covid19 Saftey Committee Member
 date: 2021
-published: true
+published: false
 labels:
   - Java
 summary: "Promoting Safe Work conditions during Covid-19 pandemic."
