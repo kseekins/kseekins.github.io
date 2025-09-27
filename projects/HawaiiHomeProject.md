@@ -4,7 +4,7 @@ type: project
 image: img/1.16.24HOMELOGO.jpg
 title: "Patient Advocay Task Force"
 date: 2021
-published: true
+published: false
 labels:
   - homelessness
 summary: "Improving how we connect homeless patients with resources."
