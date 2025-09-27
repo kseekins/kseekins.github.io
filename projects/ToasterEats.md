@@ -25,3 +25,8 @@ My contributions focused on the vendor side of this website. First, I made the l
 
 
 You can learn more at  [at out project website](https://toaster-eats.github.io).
+
+このプロジェクトはハワイ大学のソフトウェア工学の授業（ICS 314）の最終課題として開発しました。
+学生が食事を計画しやすくするために、レシピ共有機能や食材の価格・入手可能性を確認できるWebアプリを作成しました。
+私は主にベンダー機能を担当し、「キャンパス周辺の店舗」ページの実装や、新規店舗を追加できるAddShopページを開発しました。
+詳しくはこちらの[サイト](https://toaster-eats.github.io)で記載しております。
