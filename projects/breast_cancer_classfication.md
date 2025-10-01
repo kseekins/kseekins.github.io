@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/toastereats.jpg
+image: img/b_cancer.png
 title: "Breast Cancer Classification"
 date: 2025
 published: true
